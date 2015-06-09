@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-transfer-b2p_con" xml:lang="de-de">
+  <title>Geschäftlich zu Privat - kostenlose Übergabe</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet<indexterm>Übergabe von Geschäftlich zu Privat</indexterm></indexterm> 
+        <indexterm>Endreinigungsgebühr</indexterm>
+
+        <indexterm>Paketübergabe</indexterm>
+
+        <indexterm>Hotelzimmerschlüssel</indexterm>
+
+        <indexterm>Fewo-Schlüssel</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-transfer-b2p_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Beispiele</title><p>Allgemein gilt: ein geschäftlicher
+    Sender übergibt einem Privatkunden etwas kostenlos. Es ist keine Aussage
+    darüber getroffen, ob dies für den geschäftlichen Sender kostenfrei ist.
+    </p></section>
+
+    <section><title>Paketübergabe</title><p>Der Kunde kann Postdienstleister
+    durch Zustimmung erlauben, ihm als Empfänger über das <keyword
+    keyref="marke"/>-Postfach auch normale Postsendungen bei seiner
+    Abwesenheit zu hinterlegen.</p></section>
+
+    <section><title>Zimmerschlüssel-Übergabe</title><p>Ein Gast kann aufgrund
+    eines Staus nicht pünktlich im Hotel bzw. Pension erscheinen. Die
+    Rezeption übergibt den Zimmerschlüssel via Schließfach, da letztere um
+    0.20 Uhr nicht mehr besetzt ist.</p></section>
+
+    <section><title>Ferienwohnung-Schlüssel</title><p>Ähnlich verhält es sich
+    mit Schlüsseln zur Ferienwohnung bzw. -haus. Der Verwalter der
+    Ferienimmobilie muss nicht in jedem Fall am Tag der Anreise der Urlauber
+    persönlich vor Ort sein.</p><p>Bei Ferienimmobilien ist es durchaus
+    möglich, dass Besitzer und Verwalter unterschiedliche Personen sind.
+    Während dem Besitzer im Vorfeld der Reise die Miete normal überwiesen
+    wurde, muss der Verwalter vor Ort ein Entgeld für die Endreinigung
+    erhalten. Und das auch nur, wenn der Urlauber die Ferienimmobilie wirklich
+    in Anspruch genommen hat. Dies kann über die <keyword keyref="marke"/>
+    geschehen: die Schlüsselübergabe erfolgt gegen Bezahlung der
+    Endreinigungsgebühr.</p></section>
+
+    <section><title>Autoschlüssel-Übergabe</title><p>Ein Privatkunde kann die
+    KFZ-Schlüssel von der KFZ-Werkstatt erhalten, obwohl schon
+    Öffnungszeiten-Schluß ist. Ebenso den Schlüssel eines Mietwagens oder
+    Car-Sharing-Wagens.</p></section>
+  </conbody>
+</concept>

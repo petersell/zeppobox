@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="zeppobox-kirby" scope="local" xml:lang="de-de">
+  <topicref href="edition/zeppobox/item-zeppobox.xml" keys="zeppobox_topic" scope="local">
+    <mapref href="content-zeppobox.ditamap" scope="local"/>
+  </topicref>
+</map>

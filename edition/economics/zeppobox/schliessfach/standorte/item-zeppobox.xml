@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="standorte_con" xml:lang="de-de">
+  <title>Standorte der Zeppobox-Depots</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Standort<indexterm>shop-in-shop</indexterm></indexterm>
+
+        <indexterm>Standort<indexterm>Eigenschaften</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="standorte_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Shop in Shop</title><p>Die ideale Form der <keyword
+    keyref="marke"/>-Depots funktionieren nach dem shop-in-shop-Prinzip.
+    Denkbar wären in zentralen Lagen auch eigens angemietete
+    Ladenlokale.</p></section>
+
+    <section><title>Für Aufsteller kostenlos</title><p>Eine Grundannahme ist,
+    dass für die Aufstellung von <keyword keyref="marke"/>-Depots die Besitzer
+    der Immobilien nichts zu bezahlen haben. Es ist ein win-win-Situation. Die
+    Immobilienbesitzer erhoffen sich ein Aufwertung der Immobilie, die
+    Geschäftsleute, in deren Geschäftsräumen Depots installiert werden, einen
+    zusätzlichen Strom von Besuchern und somit potentielle Kunden für ihr
+    eigenes Geschäft.</p></section>
+
+    <section><title>Gemeinsamkeiten der shop-in-shop-Depots</title><p><ol>
+        <li><b>fast immer ereichbar</b> - je länger die Fächer zugänglich
+        sind, desto besser. Es ist aber kein Muss, dass die Fächer 24 Stunden
+        erreichbar sein müssen. Sicherheit und Zuverlässigkeit geht vor.</li>
+
+        <li><b>belebt</b> - obwohl Bankgeldautomaten auch nicht ständiger
+        sozialer Kontrolle unterliegen, werden diese kaum Ziel von Vandalismus
+        oder Straftaten. Trotzdem ist es ein Vorteil für die Depots, wenn
+        diese an belebter Stelle exponiert sind.</li>
+
+        <li><b>videoüberwacht</b> - kein Muss, aber dennoch, wie im Fall der
+        Bankgeldautomaten, ein Standortvorteil.</li>
+
+        <li><b>innerhalb</b> (indoor) - für alle Depots eine Bedingung und
+        darum nur an dieser Stelle einmal erwähnt.</li>
+      </ol></p><p>Es folgen einige Beispiele für shop-in-shop-Depot-Standorte.
+    Standorte meint hier nur die Art der Nutzung der Gebäude. Es wird keine
+    Aussage darüber getroffen, an welchen Stellen Depots von der Bevölkerungs-
+    und Verkehrsstruktur sinnvoll erscheinen.</p></section>
+  </conbody>
+</concept>

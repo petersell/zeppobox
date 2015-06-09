@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="standort-uni_con" xml:lang="de-de">
+  <title>Universität</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="08.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Standort<indexterm>Universität</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="standort-uni_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Der Ort der Early Adopters</title><p>Aufgrund der og.
+    Funktion spielen die Unis eine wichtige Botschafterrolle für das <keyword
+    keyref="marke"/>-Netzwerk. Studenten und Lehrkräfte kommen aus allen
+    Gegenden der Stadt und dem gesamten Bundesgebiet. Sie sind
+    experimentierfreudig und in gewissem Maße auf zeitversetzte Übergabe
+    angewiesen.</p></section>
+
+    <section><title>Übergabe von Lehrmaterialien</title><p>Kommilitonen
+    übergeben Mitschriften, Kopien, Lehrbücher etc. anderen Kommilitonen.
+    Kommilitonen sehen sich nicht jeden Tag, denn sie besuchen ein gemeinsames
+    Seminar an einem Wochentag, aber die restlichen Wochentage sehen sie sich
+    nicht. So erhält jedoch der Kommilitone noch vor dem Wochenende seine
+    Materialien. Der Sender der Materialien kann beruhigt ins Wochenende
+    fahren.</p><p>Eine Lehrkraft teilt über die <keyword keyref="marke"/>
+    Lehrmaterial bzw. Kopien an mehrere Studenten aus.</p></section>
+  </conbody>
+</concept>

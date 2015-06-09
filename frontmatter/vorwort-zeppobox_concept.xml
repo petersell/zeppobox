@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="vorwort-zeppobox_concept" xml:lang="de-de">
+  <title>Vorwort</title>
+
+  <shortdesc>Die Zeppobox ist eine Geschäftsidee, die ein temporär genutztes
+  Schließfach in der realen Welt mit einem sozialen Netzwerk und einen
+  Bezahlsystem der Online-Welt verbindet.</shortdesc>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>ditalog.com</publisher>
+
+    <critdates>
+      <created date="16.03.2014"/>
+      <revised modified="24.02.2015"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Vorwort</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>Zeppobox</prodname>
+
+        <vrmlist>
+          <vrm release="25.02.2013" version="1"/>
+        </vrmlist>
+
+        <brand>2.ditalog.com</brand>
+
+        <component/>
+
+        <featnum/>
+
+        <series/>
+      </prodinfo>
+    </metadata>
+
+    <resourceid id="vorwort-zeppobox_concept"/>
+  </prolog>
+
+  <conbody>
+    <p>Im Sommer 2013 las ich in der Zeitschrift <i>brand eins</i> einen
+    Artikel über die Arbeitsverhältnisse der Menschen in Seoul, Korea. U.a.
+    dass sie viel zu lange Arbeitswege haben und für ein Privatleben kaum noch
+    Zeit ist. Im Artikel ein Foto eines virtuellen Ladenregals von Tesco in
+    der U-Bahn: die Wartenden auf dem U-Bahnhof scannten die QR-Codes der
+    abgebildeten Artikel und ließen sich diese am Abend oder am nächsten Tag
+    anliefern. Dieses Foto inspirierte mich zur Idee der Zeppobox.</p>
+
+    <p>Die Zeppobox hat die zeitversetzte Übergabe von Dingen im Focus. In
+    dieser Form wird sie noch an der Realität scheitern. Finden Sie heraus,
+    warum. Möge die Idee der Zeppobox Ihnen als Inspiration dienen. Mit
+    anderen Worten: dies ist ein Text aus dem Jahr 2013, mehr nicht. Der Autor
+    verändert diesen Text nicht.</p>
+
+    <p>Auch andere arbeiten an dieser Idee: im Februar 2014 funktionierte
+    Volvo in einem <xref format="html"
+    href="http://www.motor-talk.de/news/wenn-der-postmann-das-auto-oeffnet-t4853542.html"
+    scope="external">Pilotprojekt</xref> das Auto um in eine private
+    Packstation. Das Startup <i>inFach.de</i> hat sich auf die
+    Schlüsselübergabe im Bereich Ferienunterkünfte spezialisisiert. Schauen
+    Sie selbst unter <xref format="html" href="http://www.hoardspot.com/de/"
+    scope="external">hoardspot.com</xref>.</p>
+  </conbody>
+</concept>

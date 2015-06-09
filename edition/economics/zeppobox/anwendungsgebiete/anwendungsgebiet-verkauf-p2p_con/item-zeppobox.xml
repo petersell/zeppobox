@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-transfer-p2p_con" xml:lang="de-de">
+  <title>Privat zu Privat - Verkauf</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+
+      <revised modified="04.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet<indexterm>Verkauf von Privat zu
+        Privat</indexterm></indexterm>
+
+        <indexterm>Privat zu privat</indexterm>
+
+        <indexterm>Kommilitone</indexterm>
+
+        <indexterm>Verkauf innerhalb Privatpersonen</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-transfer-p2p_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Beispiele</title><p>Es folgen Beispiele für den Verkauf
+    von Dingen unter Privatnutzern des Netzwerks. Allgemein gilt: es übergibt
+    jemand etwas gegen Bezahlung dem anderen.</p><p>Vorteil für den Verkäufer:
+    er richtet den Verkauf ein, wenn es ihm zeitlich paßt. Der Verkauf muss
+    nicht in seiner Privatwohnung stattfinden. Der Verkauf basiert auf einem
+    Fixpreis. Das Feilschen um einen günstigeren Preis durch die Käufer bleibt
+    ihm erspart.</p><p>Vorteil für den Käufer: er kann den Gegenstand auch
+    außerhalb ziviler Besuchszeiten entgegennehmen. Er muss eventuell nicht so
+    weit fahren, wenn ein Depot zur Übergabe in der Mitte der Beteiligten
+    genutzt wurde.</p><p>Mit Entgegennahme des Gegenstandes erfolgt die
+    sofortige Bezahlung der Dienstleistung.</p></section>
+
+    <section><title>Bereitstellung nach Anzeige</title><p>Die Information
+    darüber, dass ein Gegenstand aus Privatbesitz zum Verkauf steht, kann auf
+    vielerlei Wege erfolgen: Kleininserat in Zeitung oder Internet,
+    Zettelaushang uvm. Im Inserat erfolgt der Hinweis zur <keyword
+    keyref="marke"/>- Offerte im Netzwerk. Der Kaufinteressent muss den
+    Gegenstand mit seinen <keyword keyref="marke"/>-Angaben vorbestellen,
+    worauf der Verkäufer es in einem Schließfach bereitstellt. Der Käufer holt
+    es ab und bezahlt bei Empfang.</p></section>
+
+    <section><title>Universität</title><p>Ein Kommilitone inseriert den
+    Verkauf eines Lehrbuches über ein Pinbrett und gibt an, dass ein Verkauf
+    über die <keyword keyref="marke"/> erfolgt. Über das Netzwerk wird das
+    offerierte Buch vorbestellt. Der Verkäufer stellt das Buch in ein
+    Schließfach innerhalb der Uni ein und der Käufer holt es ab und bezahlt
+    bei Empfang. </p><p>Die Universitäten spielen eine wichtige Rollen für die
+    Nutzergruppe der Eearly Adopters.</p></section>
+  </conbody>
+</concept>

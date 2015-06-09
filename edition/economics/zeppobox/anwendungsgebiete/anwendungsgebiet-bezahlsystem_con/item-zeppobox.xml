@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-bezahlsystem_con" xml:lang="de-de">
+  <title>Anwendungsgebiet Bezahlsystem</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="29.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet<indexterm>Bezahlsystem</indexterm></indexterm>
+
+        <indexterm>peer2peer-Bezahlung</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-bezahlsystem_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Keine Extra-Erwähnung</title><p>Bei den Anwendungsgebieten
+    stand die Nutzung des Schließfaches im Vordergrund. Die Anwendungsgebiete
+    beim Bezahlsystem sollten eines Tages genau denen der Wettbewerber in
+    diesem Bereich entsprechen. Z.B. das peer2peer-Überweisen wie <xref
+    href="../../wettbewerber/wettbewerber-paymy_con/item-zeppobox.xml">paymy.de</xref>
+    uvm. </p></section>
+  </conbody>
+</concept>

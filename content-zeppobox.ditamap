@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="content-zeppobox" scope="local" title="Content Zeppobox"
+     xml:lang="de-de">
+  <topicref href="edition/economics/zeppobox/includes/concept_incl.xml"
+            processing-role="resource-only"/>
+
+  <mapref href="edition/economics/zeppobox/keydef-zeppobox.ditamap"
+          processing-role="resource-only"/>
+
+  <topicref collection-type="sequence" keyref="zusammenfassung" scope="local"
+            toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="bestandteile_con" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+
+    <topicref keyref="gmz-kerninhalt_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="funktion-schliessfach_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="internet-der-dinge_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="virale-verbreitung_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref collection-type="sequence" keyref="betreiber" scope="local"
+            toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="betreiber-echtzeitkonto_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="betreiber-aussenwerber_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="betreiber-postdienstleister_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref collection-type="sequence" keyref="wettbewerber" scope="local"
+            toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="wettbewerber-einfach_con" locktitle="yes"
+              navtitle="einFach.de" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+
+    <topicref keyref="wettbewerber-paypal_con" locktitle="yes"
+              navtitle="PayPal" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+
+    <topicref keyref="wettbewerber-yapital_con" locktitle="yes"
+              navtitle="Yapitel" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+
+    <topicref keyref="wettbewerber-stuffle_con" locktitle="yes"
+              navtitle="stuffle.it" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+
+    <topicref keyref="wettbewerber-paymy_con" locktitle="yes"
+              navtitle="paymy.de" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+  </topicref>
+
+  <topicref collection-type="sequence" keyref="anwendungsgebiete"
+            scope="local" toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="anwendungsgebiet-transfer-p2p_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="anwendungsgebiet-transfer-b2p_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="anwendungsgebiet-service-b2p_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="anwendungsgebiet-verkauf-p2p_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="anwendungsgebiet-verkauf-b2p_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="anwendungsgebiet-vermietung-p2p_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="anwendungsgebiet-empfangsbestaetigung_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="anwendungsgebiet-bezahlsystem_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref collection-type="sequence" keyref="erloesmodell" scope="local"
+            toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="erloes-bezahlprovision-box_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="erloes-bezahlprovision-pay_con" scope="local" toc="yes"
+              type="concept"/>
+
+    <topicref keyref="erloes-einstellgebuehr-box_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="erloes-vorbestellung-box_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="erloes-zugang-net_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="erloes-anzeige-net_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="erloes-zugangskontrollsystem-box_con" scope="local"
+              toc="yes" type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="erloes-printprodukt_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="erloes-behaelterwerbung_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref collection-type="sequence" keyref="schliessfach" scope="local">
+    <topicref keyref="schliessfach-public-key_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="schliessfach-npa_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref collection-type="sequence" keyref="standorte" scope="local"
+              toc="yes" type="concept" xml:lang="de-de">
+      <topicref keyref="standort-bahnhof_con" scope="local" toc="yes"
+                type="concept" xml:lang="de-de"/>
+
+      <topicref keyref="standort-tankstelle_con" scope="local" toc="yes"
+                type="concept" xml:lang="de-de"/>
+
+      <topicref keyref="standort-uni_con" scope="local" toc="yes"
+                type="concept" xml:lang="de-de"/>
+
+      <topicref keyref="standort-bankgeldautomat_con" scope="local" toc="yes"
+                type="concept" xml:lang="de-de"/>
+    </topicref>
+  </topicref>
+
+  <topicref collection-type="sequence" keyref="boxapp" scope="local" toc="yes"
+            type="concept" xml:lang="de-de">
+    <topicref keyref="boxapp-funktionen_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="boxapp-mandant-vs-nutzer_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref collection-type="sequence" keyref="netzwerk" scope="local"
+            toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="netzwerk-depotteilnehmer_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+  </topicref>
+
+  <topicref collection-type="sequence" keyref="imtrend" scope="local"
+            toc="yes" type="concept" xml:lang="de-de">
+    <topicref keyref="trend-sharing_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="trend-solomo_con" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+
+    <topicref keyref="trend-markt_con" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+  </topicref>
+
+  <topicref keyref="gegenkriminalitaet" scope="local" toc="yes" type="concept"
+            xml:lang="de-de"/>
+
+  <topicref keyref="name" scope="local" type="concept" xml:lang="de-de"/>
+</map>

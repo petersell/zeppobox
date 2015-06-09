@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd">
+<concept id="titel_con" xml:lang="de-de">
+  <title/>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <author type="contributor">seminarwork.com</author>
+
+    <source/>
+
+    <copyright>
+      <copyryear year="2012"/>
+
+      <copyrholder>Andreas Petersell</copyrholder>
+    </copyright>
+
+    <metadata>
+      <prodinfo>
+        <prodname>Zeppobox</prodname>
+
+        <vrmlist>
+          <vrm release="2015-02-10" version="2"/>
+        </vrmlist>
+
+        <featnum>ditalog</featnum>
+
+        <series>Thema</series>
+      </prodinfo>
+    </metadata>
+  </prolog>
+
+  <conbody>
+    <p id="autor" otherprops="center-big">Andreas Petersell</p>
+
+    <p id="buchtitel" otherprops="center-big">Zeppobox</p>
+
+    <p id="buchuntertitel" otherprops="center-small">Das lokale Internet der Dinge</p>
+  </conbody>
+</concept>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="gmz-kerninhalt_con" xml:lang="de-de">
+  <title>Kernaussage des Geschäftsmodells</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="03.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Kernaussage</indexterm>
+
+        <indexterm>Zusammenfassung</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="gmz-kerninhalt_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Das Pendant zum Online-Sein</title><p>Für viele Menschen
+    ist das Internet inzwischen ein Grundbedürfnis. Solange wir <i>online
+    sind</i>, haben wir Zugang zu digitaler Information und Kommunikation. Das
+    <keyword keyref="marke"/>-Netzwerk verlagert den Zugang und die
+    Erreichbarkeit in die reale Welt und ihren gegenständlichen Dingen. Wir
+    sind mit Hilfe des Schließfaches für Dinge immer erreichbar. Das
+    zeitversetzte und örtlich neutrale Übergeben von Dingen mit Hilfe eines
+    temporär genutzten Schließfachs erweitert den Aktionsradius eines jeden
+    <keyword keyref="marke"/>-Teilnehmers. Der Zugang zum <keyword
+    keyref="marke"/>-Netzwerk wird zu einem Bedürfnis heranwachsen. Schon
+    allein deshalb, weil der Kreativität über die Nutzung der Fächer keine
+    Grenzen gesetzt sind.</p></section>
+
+    <section><title>Virale Verbreitung</title><p
+    conref="../../includes/concept_incl.xml#concept_incl/virale-verbreitung"/></section>
+
+    <section><title>Framework-Infrastruktur</title><p><keyword
+    keyref="marke"/> ist ein Framework-Infrastruktur, das um das Prinzip der
+    zeitversetzten Übergabe mit Hilfe eines Schließfaches eine Vielzahl von
+    Verdienstmöglichkeiten und Geschäftsideen ermöglicht - und zwar für alle
+    Beteiligten des Netzwerkes.</p></section>
+
+    <section><title>Zepp es mir!</title><p>Ziel muss es sein, dass Sie eines
+    Tages zu Ihrem Bekannten sagen: "<i>Du kannst ihn mir ja
+    zeppen.</i>"</p><p>(Sie haben Ihren Schlüssel vergessen. Der Bekannte
+    hinterlegt auf halben Weg zur Arbeit den Schlüssel in ein temporär
+    genutztes Schließfach, zu dem nur Sie den Zugang haben - per Smartphone
+    oder eID des Personalausweises nPA. Sie erhalten eine Nachricht, wo die
+    temporäre <keyword keyref="marke"/> mit Ihrem Schlüssel sich befindet. Sie
+    müssen Ihren Bekannten nicht persönlich treffen, die zeitversetzte
+    Übergabe genügt völlig.)</p><p>Ziel muss es sein, dass Sie als Kunde Ihrem
+    Einzelhändler sagen: "<i>Bitte zeppen Sie mir die Schuhe.</i>"</p><p>(Sie
+    haben per Smartphone-App eine Anfrage an 3 Schuhläden gestellt, worin Sie
+    das blaue Kleid/blauen Anzug im Foto abgebildet haben. Die 3 Einzelhändler
+    wissen bereits, dass für Sie nur eine bestimmte Schuhgröße in Frage kommt
+    und senden jeweils Ihre Schuhvorschläge von Schuhen, die vorhanden sind
+    und ab sofort für Sie reserviert werden. Als Kunde können Sie entweder in
+    das Geschäft gehen oder sie in ein temporär genutztes Schließfach zur
+    Anprobe bereitstellen lassen. Usw. usf.)</p></section>
+
+    <section><title>Von der Berieselung zum Permission Marketing</title><p>Das
+    Netzwerk ist keine Einbahnstraße vom Gewerbetreibenden zum Konsumenten. Es
+    ist das erste Netzwerk, welches auch die Privatkunden untereinander mit
+    ihren Möglichkeiten vernetzt.</p><p>Das <keyword keyref="marke"/>-Netzwerk
+    erlaubt den nützlichen Einsatz des Permission-Marketings zwischen
+    örtlichem Gewerbe und Privatkunden. Es stellt eine für beide Seiten
+    nützliche Vertrauensbeziehung her und ermöglicht völlig neue
+    Dienstleistungen wie z.B. die o.g. Stilberatung.</p></section>
+  </conbody>
+</concept>

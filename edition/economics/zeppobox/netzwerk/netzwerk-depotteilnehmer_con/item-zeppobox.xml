@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="netzwerk-depotteilnehmer_con" xml:lang="de-de">
+  <title>Die Depot-Teilnehmer</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="10.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Netzwerk<indexterm>Depotteilnehmer</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="netzwerk-depotteilnehmer_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Schließfach-Depots als Keimzelle von örtlichen
+    Netzen</title><p>Ein bestimmtes Depot bzw. mehrere Depots in einer
+    Umgebung sind die Keimzelle für ein örtlich zu identifizierendes soziales
+    Netzwerk. Dieses örtliche soziale Netzwerk könnte man mit einer
+    Netzwerkgruppe bzw. einer Community gleichsetzen. Ein Nutzer muss für eine
+    Gruppe registriert sein, um alle Funktionalitäten nutzen zu
+    können.</p><p>Vielleicht helfen folgende Bilder:</p><ul>
+        <li><b>Zeppelin-Hafen</b> = mehrere Schließfachdepots in einer näheren
+        Umgebung werden zu einem Hafen als örtliche Einheit zusammengefaßt.
+        Ein Hafen besteht aus mindestens zwei Hangars.</li>
+
+        <li><b>Zeppelin-Hangar</b> = immer nur ein Depot. Dabei ist es egal,
+        ob es mit anderen Hangars einem Hafen zugeordnet ist. Ein Hangar kann
+        zugleich auch Hafen sein, wenn es nur ein Depot im Hafen gibt.</li>
+      </ul><p>Jeder Hafen in der realen Welt entspricht einem lokalen Netzwerk
+    im sozialen Netzwerk <keyword keyref="marke"/>.</p><ul>
+        <li><b>Zeppelin-Hafen</b> = lokales Soziales Netzwerk, welches die
+        Nutzer eines Hafens interagieren und kommunizieren läßt.</li>
+      </ul><p>Dabei kann ein Nutzer mehrere lokale Netzwerke abonnieren: das
+    in seiner Wohnortnähe und das in der Nähe seiner Arbeits- bzw.
+    Ausbildungsstätte (z.B. Universität).</p></section>
+
+    <section><title>Registrierter privater Kunde im Hafen</title><ul>
+        <li>Er kann die Nachrichten von anderen Kunden abonnieren.</li>
+
+        <li>Er kann andere Kunden bewerten bzgl. bestimmter
+        Übergabeprozesse.</li>
+
+        <li>Er kann andere Kunden anfragen, ob er in Zukunft Übergabevorgänge
+        mit ihm durchführen darf. Ähnlich einer Kontaktanfrage in Xing
+        o.ä.</li>
+      </ul></section>
+
+    <section><title>Registrierter gewerblicher Kunde im Hafen</title><ul>
+        <li>Er liefert an dieses Depot bzw. diese Depots innerhalb des Hafens
+        aus.</li>
+
+        <li>Er bezahlt für die Nutzung eines Hafens. Nutzt er mehr, bezahlt er
+        für mehrere Häfen.</li>
+
+        <li>Er kann Nachrichten bezüglich seines Angebots vermelden. Sie sind
+        nur für die Nutzer dieses Hafens ersichtlich bzw. abonnierbar.</li>
+
+        <li>Er kann andere Kunden bewerten bzgl. bestimmter
+        Übergabeprozesse.</li>
+      </ul></section>
+
+    <section><title>Nichtregistrierte Kunden</title><ul>
+        <li>Können nur ersehen, welche gewerblichen Nutzer diesem Hafen
+        zugeordnet sind.</li>
+      </ul></section>
+  </conbody>
+</concept>

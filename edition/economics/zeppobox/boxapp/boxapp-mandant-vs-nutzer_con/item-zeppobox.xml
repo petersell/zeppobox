@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="boxapp-funktionen_con" xml:lang="de-de">
+  <title>Die Gruppenfunktionen</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="28.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Box-App<indexterm>Funktionen</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="boxapp-funktionen_con"/>
+  </prolog>
+
+  <conbody>
+    <section id="accounts-einleitung"><title>Nutzer ist nicht gleich
+    Nutzer</title><p
+    conref="../../includes/concept_incl.xml#concept_incl/accountmodelle-hinweis"/></section>
+
+    <section><title>1. Privat - von Nutzer zu Nutzer</title><ul>
+        <li>der private Nutzer kann nur an einen bestimmten Empfänger
+        senden</li>
+
+        <li>es gibt keine Nutzungspauschale, aber für jedes Senden wird eine
+        geringe Einstellgebühr fällig</li>
+      </ul></section>
+
+    <section
+    conref="../../includes/concept_incl.xml#concept_incl/account-teamleiter"/>
+
+    <section
+    conref="../../includes/concept_incl.xml#concept_incl/account-profi"/>
+
+    <section
+    conref="../../includes/concept_incl.xml#concept_incl/account-marketing"/>
+  </conbody>
+</concept>

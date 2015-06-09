@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pubmap PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:pubmap" "pubmap.dtd">
+<pubmap xml:lang="de-de">
+  <pubtitle> <mainpubtitle><keyword keyref="marke"/> - Das lokale Internet der Dinge</mainpubtitle></pubtitle>
+  <pubmeta>
+  <author>Andreas Petersell</author> <publisherinformation><organization>ditalog.com</organization></publisherinformation>
+  <keywords>
+  <keyword>Zeitversetzte Übergabe</keyword>
+  <keyword>Temporäres Schließfach</keyword>
+  <keyword>Permission Marketing</keyword>
+  <keyword>Internet der Dinge</keyword>
+  </keywords> <prodinfo>
+    <prodname>Zeppobox</prodname>
+    <vrmlist>
+      <vrm
+        version="1.0"/>
+    </vrmlist>
+    </prodinfo> <pubrights> <copyrfirst> <year>2011</year> </copyrfirst> <copyrlast>
+    <year>2014</year> </copyrlast>
+    <pubowner><organization>seminarwork.com</organization></pubowner> </pubrights>
+    </pubmeta>
+    <publication>
+  <covers>
+      <epub-cover-graphic
+        href="frontmatter/covers/images/cover.gif"
+        format="gif">
+        <topicmeta>
+          <navtitle>Cover Graphic</navtitle>
+        </topicmeta>
+      </epub-cover-graphic>
+      <front-cover
+        href="frontmatter/covers/cover.xml" product="online" locktitle="yes" scope="local" toc="no" type="concept"
+            xml:lang="de-de"/>
+    </covers>
+  
+  <!-- Frontmatter -->
+  <frontmatter>
+      <topicref href="frontmatter/titel_con.xml" toc="yes" locktitle="yes"  navtitle="Titel" type="concept" xml:lang="de-de" product="online">
+      <topicmeta><author>Andreas Petersell</author><publisher>ditalog.com</publisher>
+            <copyright>
+				<copyryear year="2013"></copyryear>
+				<copyrholder>Andreas Petersell</copyrholder>
+			</copyright>
+		</topicmeta></topicref>
+      <topicref href="frontmatter/impressum_con.xml" locktitle="yes"
+            navtitle="Impressum" scope="local" toc="no" type="concept" product="online"/>
+      <!-- Titelei print -->      
+      <topicref href="frontmatter/titel_con.xml" toc="no" type="concept" xml:lang="de-de" product="print">
+      <topicref href="frontmatter/impressum_con.xml" locktitle="yes"
+            navtitle="Impressum" scope="local" toc="no" type="concept" product="print"/>
+      </topicref>
+   </frontmatter>       
+     <pubbody class="+ map/topicref pubmap-d/pubbody ">
+     <topicref href="frontmatter/vorwort-zeppobox_concept.xml" scope="local" type="concept" xml:lang="de-de"/>
+     <topicref href="content-zeppobox.ditamap" format="ditamap"></topicref>
+    </pubbody>
+   </publication>
+</pubmap>

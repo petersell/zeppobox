@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="internet-der-dinge_con" xml:lang="de-de">
+  <title>Das Internet der Dinge</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="26.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Internet der Dinge</indexterm>
+
+        <indexterm>DHL</indexterm>
+
+        <indexterm>RFID-Technologie</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="internet-der-dinge_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Der Paketzusteller und Logistikriese DHL beschreibt in vielen Artikeln
+    auf seiner Webseite, wie er den Logistikprozess immer weiter
+    professionalisiert. Die RFID-Technologie (Identifikation über Radiowellen)
+    spielt dabei eine sehr große Rolle. DHL spricht von intelligenten
+    Paketen:</p>
+
+    <p><cite>Die Vision ist, ein Paket mit Wissen auszustatten, so dass es
+    sich seinen eigenen Weg suchen kann. Die Zielinformationen werden in einem
+    RFID-Tag gespeichert, der am Paket angebracht ist. Die Anlage steuert also
+    nicht mehr das Paket, sondern das Paket steuert die Anlage. Es bewegt sich
+    zielsicher von allein in einem riesigen Logistik-Netzwerk.</cite></p>
+
+    <p><cite>Fachleute sprechen vom "Internet der Dinge", denn das Prinzip
+    ähnelt dem digitalen Daten-Highway, auf dem die Datenpakete von E-Mails
+    und Co. selbstständig ihren Weg finden.</cite> [1]</p>
+
+    <p>Das mag technologisch alles korrekt beschrieben sein. Jedoch was sollte
+    man sich unter dem Internet der Dinge vorstellen? Von DHL wird eine Ware
+    von A nach B befördert. Eine Ware ist eine (1) Instanz von mehreren
+    Gegenständen. Sie ist kein bestimmtes Ding. Ein Gegenstand, dessen
+    Vorgeschichte schon gelaufen ist. Der Verkäufer einer Ware hat (oder wird)
+    sein Geld erhalten und schickt dem Käufer die Ware zu. DHLs Internet ist
+    nicht das Netz der Dinge, sondern der Waren, genauer der
+    Warenbewegung.</p>
+
+    <p>Das Internet der Dinge kann aber auch heißen, dass es um bestimmte
+    Exemplare eines Gutes geht. Der Laminatschneider von Herrn Schmidt oder
+    das rote Kleid in Größe 36 in Utes Boutique. Bei diesen bestimmten
+    Exemplaren ist es also wichtig, neben dem Besitzer auch den aktuellen
+    Aufenthaltsort des Dings zu wissen. Das Ding muss nicht immer beim
+    Besitzer sein. Wo ein Ding sich aktuell befindet ist egal, Hauptsache ist,
+    dass der letzte Nutzer des Dings identifiziert und adressiert werden kann.
+    Beim <keyword keyref="marke"/>-Netzwerk ist der letzte Empfänger eines
+    Dings bekannt und kann kontaktiert werden.</p>
+
+    <p>Dem <keyword keyref="marke"/>-Netzwerk ist es nicht wichtig, wo sich
+    etwas befindet, sondern vielmehr bei wem. Es verbindet Dinge mit
+    Netzwerkteilnehmern. Das <keyword keyref="marke"/>-Netzwerk in seiner
+    Gesamtheit besteht aus vielen lokalen <i>Internets der Dinge</i>.</p>
+
+    <section><title>Quellen</title><ul>
+        <li>[1] Was ist RFID?,
+        http://www.dpdhl.com/de/logistik_populaer/trends/rfid/rfid_lowtec.html,
+        <xref format="html"
+        href="http://www.dpdhl.com/de/logistik_populaer/trends/rfid/rfid_lowtec.html"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

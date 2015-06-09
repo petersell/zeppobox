@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="trend-markt_con" xml:lang="de-de">
+  <title>Trend - Von der Verteilung zum Markt</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="03.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Trend<indexterm>Mündiger Kunde</indexterm></indexterm>
+        <indexterm>Trend<indexterm>Von der Verteilung zum Markt</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="trend-markt_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Keine Massenkompatibilität mehr</title><p>Wolf Lotter
+    schrieb im April 2013: <cite>Der Handel kehrt zu seinen Ursprüngen zurück.
+    Er wird wieder zum Markt, dem Ort, an dem wir miteinander reden können
+    [1].</cite> Lotter läßt die Konsumforscherin Lucia Reisch zu Wort
+    kommen:</p><p><cite>"Wir stecken mitten in einer Veränderung", sagt sie,
+    "und die Richtung ist klar: Wir kommen aus Optionsmärkten, bei denen
+    Produkte den Verbrauchern angeboten oder an sie verteilt wurden, ohne dass
+    dabei ihre Wünsche und Vorstellungen eine Rolle gespielt hätten... Die
+    alten Optionsmärkte sind überall im Rückzug begriffen, die Zukunft gehört
+    quer durch alle Konsumentenschichten den Verhandlungsmärkten."
+    [2]</cite></p><p>Mit anderen Worten: der Kunde wird ein mündiger Kunde. Er
+    wird mehr als Partner wahrgenommen. Auf seine individuellen Wünschen muss
+    in Zukunft eingegangen werden. Zusätzlich können auch die Kunden
+    untereinander kommunizieren.</p><p><cite>Netzwerke entstehen, wo Märkte
+    sind. Märkte entstehen, wo Menschen miteinander
+    reden.[3]</cite></p></section>
+
+    <section><title>Quellen</title><ul>
+        <li>[1] Wolf Lotter, Alte Bekannte, in: brand
+        ein 04/2013, S. 50, <xref format="html"
+        href="https://www.brandeins.de/archiv/2013/handel/alte-bekannte.html"
+        scope="external">zum Link</xref></li>
+
+        <li>[2] ebd., S. 56</li>
+
+        <li>[3] ebd., S. 56</li>
+      </ul></section>
+  </conbody>
+</concept>

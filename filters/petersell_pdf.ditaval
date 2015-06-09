@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop action="include" att="product" val="print" />
+  <prop action="include" att="product" val="petersell" />
+  <prop action="exclude" att="product" val="wordpress" />
+  <prop action="exclude" att="product" val="online" />
+  <prop action="exclude" att="otherprops" val="inhalt"/>
+  <prop action="flag" att="otherprops" val="bedingung">
+        <startflag>
+          <alt-text>Voraussetzung: </alt-text>
+        </startflag>
+  </prop>
+  <prop action="flag" att="otherprops" val="ergebnis">
+      <startflag>
+        <alt-text>Ergebnis: </alt-text>
+      </startflag>
+ </prop>
+</val>
+

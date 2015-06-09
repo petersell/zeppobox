@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-service-b2p_con" xml:lang="de-de">
+  <title>Geschäftlich zu Privat - Service in Zwischenzeit gegen
+  Bezahlung</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet<indexterm>Service in der Zwischenzeit</indexterm></indexterm>
+        <indexterm>Schusterei</indexterm>
+        <indexterm>Schneiderei</indexterm>
+        <indexterm>Chemische Reinigung</indexterm>
+        <indexterm>Reparatur technischer Geräte</indexterm>
+        <indexterm>Kleidung zur Anprobe</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-service-b2p_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Beispiele</title><p>Es folgen Beispiele für die
+    Dienstleistung von Geschäftskunden an Privatnutzer innerhalb eines
+    bestimmten Zeitraums. Meistens von morgens bis abends oder bis zum
+    nächsten Tag. Das Schließfach bleibt für die Zeit der Erbringung der
+    Dienstleistung reserviert, so dass der Gegenstand, an dem Dienstleistung
+    ausgeführt wird, wieder im selben Fach übergeben wird. Die Arten der
+    Dienstleistung sind standardisiert und der jeweilige Preis für
+    Privatkunden transparent.</p><p>Ein Nutzen ist, dass der Zeitraum zwischen
+    morgens und abends genutzt wird und der Privatkunde z.B. das
+    Bahnhofsgelände oder die Autobahn nicht verlassen muss. Ein weiterer
+    Nebeneffekt ist, dass der Privatkunde sich von den Öffnungszeiten des
+    Dienstleisters unabhängig macht. Er bekommt den Gegenstand, an dem die
+    Dienstleistung ausgeführt wurde, auch noch um 22.00 Uhr.</p><p>Mit
+    Entgegennahme des Gegenstandes erfolgt die sofortige Bezahlung der
+    Dienstleistung.</p></section>
+
+    <section><title>Schneiderei</title><p>Ein Privatkunde hinterlegt Hosen zum
+    Kürzen oder zum Auswechseln eines Reißverschlusses in ein Schließfach. Am
+    Abend kann er die Hose wieder abholen.</p></section>
+
+    <section><title>Wäscherei</title><p>Ein Privatkunde hinterlegt einen Anzug
+    zur Chemischen Reinigung.</p></section>
+
+    <section><title>Schuster</title><p>Ein Privatkunde hinterlegt Stiefel,
+    damit diese neue Absätze erhalten.</p></section>
+
+    <section><title>Reparatur technischer Kleingeräte</title><p>Ein
+    Privatkunde hinterlegt eine Armbanduhr zum Batteriewechsel. Ein
+    Privatkunde hinterlegt ein Notebook, damit dieses vom Virenbefall
+    gesäubert wird.</p></section>
+
+    <section><title>Kleidungsstücke zur Anprobe</title><p>Ein Privatkunde hat
+    eine Bestellung auf ein bestimmtes Paar Schuhe beim Einzelhändler über das
+    Netzwerk getätigt. Das örtliches Schuhgeschäft stellt diese Paar Schuhe
+    ins Schließfach zur Anprobe bereit. Egal, ob der Privatkunde diese Schuhe
+    kauft, das Bereitstellen zur Anprobe ist eine Dienstleistung und wird
+    gesondert abgerechnet. Eine Option ist es, dies gleich bei Entgegennahme
+    abzurechnen.</p></section>
+  </conbody>
+</concept>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="keydef-zeppobox" scope="local" title="Container Zeppobox"
+     xml:lang="de-de">
+  <!-- Variable zeppobox vs zeppelinbox -->
+
+  <keydef keys="marke">
+    <topicmeta>
+      <keywords>
+        <keyword>Zeppobox</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+
+  <keydef href="zusammenfassung/item-zeppobox.xml" keys="zusammenfassung"/>
+
+  <keydef href="zusammenfassung/bestandteile_con/item-zeppobox.xml"
+          keys="bestandteile_con"/>
+
+  <keydef href="zusammenfassung/funktion-schliessfach_con/item-zeppobox.xml"
+          keys="funktion-schliessfach_con"/>
+
+  <keydef href="zusammenfassung/gmz-kerninhalt_con/item-zeppobox.xml"
+          keys="gmz-kerninhalt_con"/>
+
+  <keydef href="zusammenfassung/internet-der-dinge_con/item-zeppobox.xml"
+          keys="internet-der-dinge_con"/>
+
+  <keydef href="zusammenfassung/virale-verbreitung_con/item-zeppobox.xml"
+          keys="virale-verbreitung_con"/>
+
+  <keydef href="betreiber/item-zeppobox.xml" keys="betreiber"/>
+
+  <keydef href="betreiber/betreiber-aussenwerber_con/item-zeppobox.xml"
+          keys="betreiber-aussenwerber_con"/>
+
+  <keydef href="betreiber/betreiber-echtzeitkonto_con/item-zeppobox.xml"
+          keys="betreiber-echtzeitkonto_con"/>
+
+  <keydef href="betreiber/betreiber-postdienstleister_con/item-zeppobox.xml"
+          keys="betreiber-postdienstleister_con"/>
+
+  <keydef href="anwendungsgebiete/item-zeppobox.xml" keys="anwendungsgebiete"
+          scope="local" type="concept" xml:lang="de-de"/>
+
+  <keydef href="anwendungsgebiete/anwendungsgebiet-bezahlsystem_con/item-zeppobox.xml"
+          keys="anwendungsgebiet-bezahlsystem_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="anwendungsgebiete/anwendungsgebiet-empfangsbestaetigung_con/item-zeppobox.xml"
+          keys="anwendungsgebiet-empfangsbestaetigung_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="anwendungsgebiete/anwendungsgebiet-service-b2p_con/item-zeppobox.xml"
+          keys="anwendungsgebiet-service-b2p_con" type="concept" xtrc="de-de"
+          xml:lang="de-de"/>
+
+  <keydef href="anwendungsgebiete/anwendungsgebiet-transfer-b2p_con/item-zeppobox.xml"
+          keys="anwendungsgebiet-transfer-b2p_con" type="concept"
+          xml:lang="de-de"/>
+
+  <keydef href="anwendungsgebiete/anwendungsgebiet-transfer-p2p_con/item-zeppobox.xml"
+          keys="anwendungsgebiet-transfer-p2p_con" type="concept"
+          xml:lang="de-de"/>
+
+  <keydef href="anwendungsgebiete/anwendungsgebiet-verkauf-b2p_con/item-zeppobox.xml"
+          keys="anwendungsgebiet-verkauf-b2p_con" scope="local" type="concept"
+          xml:lang="de-de"/>
+
+  <keydef href="anwendungsgebiete/anwendungsgebiet-verkauf-p2p_con/item-zeppobox.xml"
+          keys="anwendungsgebiet-verkauf-p2p_con"/>
+
+  <keydef href="anwendungsgebiete/anwendungsgebiet-vermietung-p2p_con/item-zeppobox.xml"
+          keys="anwendungsgebiet-vermietung-p2p_con"/>
+
+  <keydef href="erloesmodell/item-zeppobox.xml" keys="erloesmodell"/>
+
+  <keydef href="erloesmodell/erloes-anzeige-net_con/item-zeppobox.xml"
+          keys="erloes-anzeige-net_con"/>
+
+  <keydef href="erloesmodell/erloes-behaelterwerbung_con/item-zeppobox.xml"
+          keys="erloes-behaelterwerbung_con"/>
+
+  <keydef href="erloesmodell/erloes-bezahlprovision-box_con/item-zeppobox.xml"
+          keys="erloes-bezahlprovision-box_con"/>
+
+  <keydef href="erloesmodell/erloes-einstellgebuehr-box_con/item-zeppobox.xml"
+          keys="erloes-einstellgebuehr-box_con"/>
+
+  <keydef href="erloesmodell/erloes-printprodukt_con/item-zeppobox.xml"
+          keys="erloes-printprodukt_con"/>
+
+  <keydef href="erloesmodell/erloes-vorbestellung-box_con/item-zeppobox.xml"
+          keys="erloes-vorbestellung-box_con"/>
+
+  <keydef href="erloesmodell/erloes-bezahlprovision-pay_con/item-zeppobox.xml"
+          keys="erloes-bezahlprovision-pay_con"/>
+          
+  <keydef href="erloesmodell/erloes-zugang-net_con/item-zeppobox.xml"
+          keys="erloes-zugang-net_con"/>        
+
+  <keydef href="erloesmodell/erloes-zugangskontrollsystem-box_con/item-zeppobox.xml"
+          keys="erloes-zugangskontrollsystem-box_con"/>
+
+  <keydef href="gegenkriminalitaet/item-zeppobox.xml"
+          keys="gegenkriminalitaet"/>
+
+  <keydef href="imtrend/item-zeppobox.xml" keys="imtrend"/>
+
+  <keydef href="imtrend/trend-markt_con/item-zeppobox.xml"
+          keys="trend-markt_con"/>
+
+  <keydef href="imtrend/trend-sharing_con/item-zeppobox.xml"
+          keys="trend-sharing_con"/>
+
+  <keydef href="imtrend/trend-solomo_con/item-zeppobox.xml"
+          keys="trend-solomo_con"/>
+
+  <keydef href="imtrend/trend-umweltbewusstsein_con/item-zeppobox.xml"
+          keys="trend-umweltbewusstsein_con"/>
+
+  <keydef href="name/item-zeppobox.xml" keys="name"/>
+
+  <keydef href="netzwerk/item-zeppobox.xml" keys="netzwerk"/>
+
+  <keydef href="netzwerk/netzwerk-depotteilnehmer_con/item-zeppobox.xml"
+          keys="netzwerk-depotteilnehmer_con"/>
+
+  <keydef href="schliessfach/item-zeppobox.xml" keys="schliessfach"/>
+
+  <keydef href="schliessfach/schliessfach-npa_con/item-zeppobox.xml"
+          keys="schliessfach-npa_con"/>
+
+  <keydef href="schliessfach/schliessfach-public-key_con/item-zeppobox.xml"
+          keys="schliessfach-public-key_con"/>
+
+  <keydef href="schliessfach/standorte/item-zeppobox.xml" keys="standorte"/>
+
+  <keydef href="schliessfach/standorte/standort-bahnhof_con/item-zeppobox.xml"
+          keys="standort-bahnhof_con"/>
+
+  <keydef href="schliessfach/standorte/standort-bankgeldautomat_con/item-zeppobox.xml"
+          keys="standort-bankgeldautomat_con"/>
+
+  <keydef href="schliessfach/standorte/standort-tankstelle_con/item-zeppobox.xml"
+          keys="standort-tankstelle_con"/>
+
+  <keydef href="schliessfach/standorte/standort-uni_con/item-zeppobox.xml"
+          keys="standort-uni_con"/>
+
+  <keydef href="wettbewerber/item-zeppobox.xml" keys="wettbewerber"/>
+
+  <keydef href="wettbewerber/wettbewerber-einfach_con/item-zeppobox.xml"
+          keys="wettbewerber-einfach_con"/>
+
+  <keydef href="wettbewerber/wettbewerber-paymy_con/item-zeppobox.xml"
+          keys="wettbewerber-paymy_con"/>
+
+  <keydef href="wettbewerber/wettbewerber-paypal_con/item-zeppobox.xml"
+          keys="wettbewerber-paypal_con"/>
+
+  <keydef href="wettbewerber/wettbewerber-stuffle_con/item-zeppobox.xml"
+          keys="wettbewerber-stuffle_con"/>
+
+  <keydef href="wettbewerber/wettbewerber-yapital_con/item-zeppobox.xml"
+          keys="wettbewerber-yapital_con"/>
+
+  <keydef href="boxapp/item-zeppobox.xml" keys="boxapp"/>
+
+  <keydef href="boxapp/boxapp-funktionen_con/item-zeppobox.xml"
+          keys="boxapp-funktionen_con"/>
+
+  <keydef href="boxapp/boxapp-mandant-vs-nutzer_con/item-zeppobox.xml"
+          keys="boxapp-mandant-vs-nutzer_con"/>
+
+  <!-- Topics Kapitel 1 -->
+
+  <keydef keys="petersell-mail-allgemein">
+    <topicmeta>
+      <keywords>
+        <keyword>mail@petersell.de</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+</map>

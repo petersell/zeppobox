@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="wettbewerber-yapital_con" xml:lang="de-de">
+  <title>Yapital</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Wettbewerber<indexterm>Yapital</indexterm></indexterm>
+
+        <indexterm>Yapital</indexterm>
+
+        <indexterm>peer2peer-Bezahlung</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="wettbewerber-yapital_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Die Yapital Financial AG ist eine Tochter der Otto-Group und bietet ein
+    Multichannel-Bezahlsystem an: es wird online als auch offline via QR-Codes
+    integriert. Geplant ist ebenso eine peer2peer-Bezahlung.</p>
+
+    <p><fig>
+        <title>Das Schweizer Taschenmesser unter den Bezahlsystemen</title>
+
+        <image alt="Yapital" href="yapital_669.gif" placement="break"/>
+      </fig></p>
+
+    <p>Das Magazin t3n gab einen kurzen Überblick.</p>
+
+    <section><title>Online und offline Bezahlen</title><ul>
+        <li>Rechnungen in Papierform über einen eingedruckten QR-Code
+        begleichen</li>
+
+        <li>Bezahlen in Onlineshops mit dem Yapital-Login oder einem
+        QR-Code</li>
+
+        <li>Kostenfreie Yapital Mastercard in klassischer Kartenform</li>
+      </ul></section>
+
+    <section><title>Verfügbarkeit im Handel</title><p>Otto.de, Baur,
+    Sport-Scheck, Görtz 17, Rewe-Märkte, Novum Hotels, Rakuten</p></section>
+
+    <section><title>Kanäle</title><p>Mobil, Online, an der Kasse und auf
+    Papier-Rechnungen.</p></section>
+
+    <section><title>Nur eine Option unter mehreren</title><p>Trotz der
+    Verbreitung stellt Yapital nur eine Option von mehreren dar. Der Kunde
+    wird auch weiterhin mit Bargeld oder EC-Karte bezahlen können. Auch das
+    peer2peer-Bezahlen kann auf anderem Wege genauso gut erfolgen. Es fehlt
+    ein wirklicher Anreiz, das Yapital-System auf Dauer zu benutzen.</p><p
+    conref="../../includes/concept_incl.xml#concept_incl/brandeins-pay"/></section>
+
+    <section><title>Links</title><ul>
+        <li>Yapital.com, <xref format="html"
+        href="https://beta.yapital.com/de/consumer/index" scope="external">zum
+        Link</xref></li>
+
+        <li>Yapital: Das Schweizer Taschenmesser unter den Payment-Diensten,
+        <xref format="html"
+        href="http://t3n.de/news/yapital-schweizer-taschenmesser-489728/"
+        scope="external">zum Link</xref></li>
+
+        <li id="jederkannschreiben">Rewe führt Yapital als Zahlungsmittel ein,
+        <xref format="html"
+        href="http://www.derhandel.de/news/technik/pages/Mobile-Payment-Rewe-fuehrt-Yapital-als-Zahlungsmittel-ein-10045.html"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+
+    <section><title>Quellen</title><ul>
+        <li
+        conref="../../includes/concept_incl.xml#concept_incl/sindwirquitt"/>
+      </ul></section>
+  </conbody>
+</concept>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="concept_incl" xml:lang="de-de">
+  <title>Concept Includes</title>
+
+  <shortdesc>Included Paragraph in Concepts.</shortdesc>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>ditalog.com</publisher>
+
+    <copyright>
+      <copyryear year="2014"/>
+
+      <copyrholder>ditalog.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="10.02.2015"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Example index</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>Ditalog</prodname>
+
+        <vrmlist>
+          <vrm release="10.02.2015" version="2"/>
+        </vrmlist>
+
+        <brand>ditalog</brand>
+
+        <component>ditalog</component>
+
+        <featnum/>
+
+        <series>Tutor</series>
+      </prodinfo>
+    </metadata>
+
+    <resourceid id="concept_incl"/>
+  </prolog>
+
+  <conbody>
+    <p id="boxkeimzellenet">Die einzelnen Schließfach-Depots werden die
+    Keimzellen für lokale soziale Netzwerke werden. Dabei kann ein Nutzer
+    mehrere lokale Netzwerke abonnieren: das in seiner Wohnortnähe und das in
+    der Nähe seiner Arbeits- bzw. Ausbildungsstätte (z.B.
+    Universität).<draft-comment>anwendungsgebiete,
+    bestandteile_con</draft-comment></p>
+
+    <p id="zeppobox-echtzeitkonto">Das Bezahlsystem, welches die <keyword
+    keyref="marke"/> nutzen wird, wird sich als vorherrschendes, permanent
+    genutztes Bezahlsystem unter Privatanwendern etablieren, denn dieses
+    Bezahlsystem ist keine zusätzliche Option zum Bezahlen wie im Fall <xref
+    keyref="wettbewerber-paypal_con"
+    scope="local">PayPal</xref> oder <xref
+    keyref="wettbewerber-yapital_con">Yapitel</xref>,
+    sondern die einzige Möglichkeit, die <keyword keyref="marke"/> zu
+    nutzen.<draft-comment>betreiber-echtzeitkonto_con,
+    funktion-schliessfach_con</draft-comment></p>
+
+    <p id="virale-verbreitung">Zwei Teilnehmer lösen das Problem einer
+    Übergabe zeitversetzt mit Hilfe des Schließfaches - für beide
+    zufriedenstellend. Diese beiden werden eines Tages auch mit anderen
+    Menschen diesen Service nutzen wollen. Sie brauchen den neuen Nutzer nicht
+    lange zu überreden, denn der Nutzen liegt auf der Hand und braucht nicht
+    erklärt werden. Dem anderen wird also nicht eine App oder ein soziales
+    Netzwerk zur Nutzung vorgeschlagen, sondern eine Lösung auf ein Problem.
+    Auch diese neuen Nutzer werden ihrerseits wieder neue Nutzer
+    gewinnen.<draft-comment>virale-verbreitung_con,
+    gmz-kerninhalt_con</draft-comment></p>
+
+    <p id="zugangskontrolle">Heute noch sprechen wir von der Nutzung eines
+    temporär genutzten Schließfaches. Aber eigentlich ist es nur ein
+    Zugangskontrollsystem - jedoch eines mit den meisten Nutzern. Schon jetzt
+    ist es der Bundesdruckerei GmbH ein leichtes, eine Firma mit einem
+    Zugangskontrollsystem auszurüsten. Jedoch wäre dies nur innerhalb des
+    Firmengeländes wirksam. Das Schließfach verhilft also nicht nur einem
+    Bezahlsystem zu vielen Nutzern, sondern auch einer Technologie der
+    Zugangskontrolle. Der Phantansie sind keine Grenzen gesetzt:
+    Gewerbetreibende können Premiumkunden einen Tag eher Waren bereitstellen,
+    bevor sie dann am nächsten Tag der gesamten Laufkundschaft zur Verfügung
+    gestellt wird.<draft-comment>anwendungsgebiet-verkauf-b2p_con,
+    funktion-schliessfach_con</draft-comment></p>
+
+    <p id="brandeins-pay"><cite>"Niemand wird sein Bezahlverhalten verändern,
+    nur weil es neue Bezahlmöglichkeiten gibt", sagt der Payment-Experte André
+    M. Bajorat. Erst wenn der Kunde einen echten Mehrwert bekommt, wird er die
+    neuen Techniken annehmen..."
+    [1]</cite><draft-comment>wettbewerber-paypal_con,
+    wettbewerber-yapital_con</draft-comment></p>
+
+    <p id="accountmodelle-hinweis">Die Möglichkeit, Übergabevorgänge für
+    mehrere zu ermöglichen, gibt <keyword keyref="marke"/> die Möglichkeit,
+    mehrere Accountmodelle
+    anzubieten.<draft-comment>erloes-einstellgebuehr-box_con,
+    boxapp-mandant-vs-nutzer_con</draft-comment></p>
+
+    <section id="account-teamleiter"><title>2. Teamleiter - ein Sender an
+    mehrere Empfänger</title><ul>
+        <li>der Teamleiter kann mehreren ausgesuchten Empfängern die Entnahme
+        ermöglichen, im Vertrauen darauf, dass die Empfänger nur das
+        entnehmen, was vereinbart wurde</li>
+
+        <li>es gibt eine Nutzungspauschale, die Einstellgebühr entfällt</li>
+      </ul><p>Dieser Account richtet sich in erster Linie an Dozenten, Lehrer,
+    Erzieher o.ä. Aber prinzipiell steht er jedem
+    frei.</p><draft-comment>boxapp-mandant-vs-nutzer_con,
+    erloes-einstellgebuehr_con</draft-comment></section>
+
+    <section id="account-profi"><title>3. Professional - mehrere Sender und
+    Empfänger</title><ul>
+        <li>der Professional kann mehrere Nutzer zum Einstellen und Entnehmen
+        von Boxen einrichten</li>
+
+        <li>es gibt eine Nutzungspauschale, die Einstellgebühr entfällt</li>
+      </ul><p>Dieser Account richtet sich an Nutzer, die andere Nutzer
+    beauftragen möchten, für sie etwas zu entnehmen und mitzubringen bzw.
+    entgegengesetzt: weiter zu
+    transportieren.</p><draft-comment>erloes-einstellgebuehr_con,
+    boxapp-mandant-vs-nutzer_con</draft-comment></section>
+
+    <section id="account-marketing"><title>4. Business - Permission
+    Marketing</title><p>Dieser Account ist gewerblichen Nutzern vorbehalten
+    und ist eine Kombination aus Box-App und Sozialem
+    Netzwerk.<draft-comment>boxapp-mandant-vs-nutzer_con,
+    erloes-einstellgebuehr_con</draft-comment></p></section>
+
+    <section id="dahlmann-brandeins"><title>Quellen</title><ul>
+        <li id="sindwirquitt">[1] Frank Dahlmann, Sind wir quitt?, in: brand
+        ein 04/2013, S. 137, <xref format="html"
+        href="https://www.brandeins.de/archiv/2013/handel/sind-wir-quitt.html"
+        scope="external">zum
+        Link</xref><draft-comment>betreiber-echtzeitkonto_con,
+        wettbewerber-paypal_con, wettbewerber-yapital_con</draft-comment></li>
+      </ul></section>
+  </conbody>
+</concept>

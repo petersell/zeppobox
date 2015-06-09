@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="funktion-schliessfach_con" xml:lang="de-de">
+  <title>Die besondere Rolle des Schließfaches</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="09.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Schließfach<indexterm>die besondere
+        Rolle</indexterm></indexterm>
+
+        <indexterm>Bundesdruckerei GmbH</indexterm>
+
+        <indexterm>Zugangskontrollsystem</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="funktion-schliessfach_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Ziel - Nutzen für die Nutzer</title><p>Natürlich dient das
+    Schließfach dazu, für jeden Teilnehmer des <keyword
+    keyref="marke"/>-Netzwerkes für reale Dinge immer erreichbar zu sein.
+    Nicht nur das: jeder kann Dinge verkaufen, erhält sofort Rückmeldung über
+    den Empfang uvm. Doch das Schließfach ist nicht nur Ziel, sondern zugleich
+    auch Mittel zum Zweck.</p></section>
+
+    <section><title>Mittel zum Zweck - Killeranwendung</title><p>Das
+    Schließfach steht nicht im Mittelpunkt der Unternehmung als alleiniger
+    Selbstzweck. Es ist das Schmiermittel, die Killerapplikation für die
+    Nutzer, welche hilft, dass sich viele Nutzer im <keyword
+    keyref="marke"/>-Netzwerk anmelden. Erst mit dem temporären Schließfach
+    wird eine kritische Masse an Privatnutzern gewonnen, um das Netzwerk auch
+    für gewerbliche Teilnehmer interessant werden zu lassen. Das Schließfach
+    ist keine Ware, die ein- oder zweimal im Leben angeschaft wird. Die
+    Nutzung des Schließfaches ist eine gelebte Option, die zur Gewohnheit
+    übergehen wird. Eine Lebensbereicherung, eine Erweiterung des menschlichen
+    Aktionsradius, eine Kommunikationsschnittstelle zu anderen Menschen -
+    ähnlich einer E-Mailadresse, nur in der realen Welt.</p><p>So ist z.B.
+    Skrill, der britische Echtzeit-Überweisungsdienstleister, schon viel
+    länger im Geschäft als PayPal. Aber auch die Umbenennung von
+    <i>Moneybookers</i> in <i>Skrill</i> wird den Briten nichts nützen, so
+    lange kein Anreiz zur Anmeldung eines Kontos bei Skrill vorliegt - eine
+    Killerapplikation, die man über lange Zeit als nützlich erachtet und man
+    sich ein Leben ohne sie nur noch schwer vorstellen
+    kann.</p></section>
+    <section><title>Vorherrschendes Bezahlsystem</title><p
+    conref="../../includes/concept_incl.xml#concept_incl/zeppobox-echtzeitkonto"/></section>
+    
+    <section><title>Vorherrschendes
+    Zugangskontrollsystem</title><p
+    conref="../../includes/concept_incl.xml#concept_incl/zugangskontrolle"/><p>Die
+    <keyword keyref="marke"/> hat zum Ziel, das meistgenutzte Bezahlsystem und
+    das gebräuchlichste Zugangskontrollsystem zu etablieren. Ohne diese
+    Investitionen in die Offlinewelt bleibt jeder Versuch des <i>Internets der
+    Dinge</i> und des <i>Permission Marketings</i> ein Potemkinsches Dorf. Wer
+    Aspekte der realen Welt beherrschen will, sollte dies nicht ausschließlich
+    online angehen. Wer es ernst meint mit der <i>Zollstation zwischen Online-
+    und Offlinewelt</i>, muss in Vorleistung gehen. Der erste hat die besten
+    Chancen.</p></section>
+    
+    <section><title>Grundlage für neue Geschäftsmodelle</title><p>Wenn wir
+    uns vorstellen, dass jeder Netzwerkteilnehmer über folgendes
+    verfügt:</p><p>Als <b>Sender</b> über:</p><ol>
+        <li>ein Schließfach, das es ihm ermöglicht, Dinge zu übergeben, so
+        dass der Empfänger es abholen kann, wann immer er es will,</li>
+
+        <li>ein Schließfach, das es ihm ermöglicht, Dinge zu übergeben, so
+        dass der Empfänger es nicht bei ihm selbst im Geschäftsraum oder in
+        der Privatwohnung abholen muss,</li>
+
+        <li>ein Schließfach, das die Entgegennahme der Ware durch den
+        authentifizierten Empfänger in Echtzeit zurückmeldet,</li>
+
+        <li>eine Kasse, die sofort über das Echtzeitkonto das Geld
+        entgegennimmt,</li>
+      </ol><p>und als <b>Empfänger</b> über:</p><ol>
+        <li>ein Schließfach, dass es ihm ermöglicht, Dinge abzuholen, wann es
+        ihm möglich ist,</li>
+
+        <li>ein Schließfach, dass es ihm ermöglicht, Dinge abzuholen, ohne
+        dazu in Geschäftsräume und Privatwohnungen gehen zu müssen, sondern
+        nur zum Schließfach, dass sich in seinem Umsteigebahnhof oder der
+        Tankstelle auf dem Weg befindet,</li>
+
+        <li>ein Konto, dass automatisch die Bezahlung übernimmt,</li>
+      </ol><p>dann handelt es sich um ein Framework, welches die Teilnehmer
+    befähigt und motiviert, sich neue Geschäftsmodelle auszudenken! Es wird
+    der Tag kommen, an denen die Schließfachdepots gern angemietet werden, um
+    die Attraktivität einer Immobilie zu erhöhen und neue Geschäftsfelder zu
+    erschließen. Der Betreiber des <keyword keyref="marke"/>-Netzwerkes wird
+    zum Gatekeeper und Infrastrukturbetreiber mit endlosen Möglichkeiten des
+    Mitverdienens.</p></section>
+  </conbody>
+</concept>

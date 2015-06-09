@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="wettbewerber-einfach_con" xml:lang="de-de">
+  <title>einFach.de</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="03.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Wettbewerber<indexterm>einFach</indexterm></indexterm>
+
+        <indexterm>einFach</indexterm>
+
+        <indexterm>Dropbox für reale Dinge</indexterm>
+
+        <indexterm>Schweizerische Bahn SBB</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="wettbewerber-einfach_con"/>
+  </prolog>
+
+  <conbody>
+    <p>einFach.de ist ein Startup aus dem studentischem Umfeld aus
+    Berlin-Kreuzberg. Der Claim "<i>deine Dropbox für reale Dinge</i>" zeigt,
+    dass sie das Prinzip der zeitversetzten Übergabe kennen.</p>
+
+    <p><fig>
+        <title>Homepage der App einFach</title>
+
+        <image alt="einFach" href="einfach-screenshot.gif"
+               placement="break"/>
+      </fig></p>
+
+    <p>Auf der Webseite finden sich auch Hinweise, dass sie die Möglichkeit
+    des Austauschs von Dingen zwischen Privatnutzern berücksichtigen. Es heißt
+    unter dem Stichwort "<i>Was brauchst Du?</i>":</p>
+
+    <p><cite>Reinigung, Kochzutaten oder einem Freund den Wohnungsschlüssel
+    hinterlegen? Kein Problem! Wähle mit unserer App deinen
+    Service.</cite></p>
+
+    <p>Es kann nur spekuliert werden, ob sie die Geschäftsidee zu einem
+    Geschäftsmodell mit Echtzeitkonto und Netzwerk ausbauen möchten. Noch ist
+    einFach.de darauf angewiesen, dass Firmen wie die Schweizerische Bahn SBB
+    die Schließfächer als Service für Ihre Kunden, hier z.B. die Bahnkunden,
+    anbieten. Die Schließfächer in den Bahnhöfen Bern und Zürich befinden sich
+    noch im Testmodus.</p>
+
+    <section><title>Links</title><ul>
+        <li>einFach.de, <xref format="html"
+        href="http://www.ein-fach.de" scope="external">zum Link</xref></li>
+
+        <li>tagesanzeiger.ch - Good Box – der neue
+        SBB-Service im Test, <xref format="html"
+        href="http://www.tagesanzeiger.ch/wirtschaft/unternehmen-und-konjunktur/Good-Box--der-neue-SBBService-im-Test/story/26919683"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

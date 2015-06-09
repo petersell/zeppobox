@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="titeleinband_con" xml:lang="de-de" outputclass="cover-zeppobox">
+  <title/>
+
+  <titlealts>
+    <navtitle>Cover</navtitle>
+  </titlealts>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2011"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <metadata>
+      <keywords>
+        <indexterm>Covergraphic</indexterm>
+
+        <indexterm>Titeleinband</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>zeppobox</prodname>
+
+        <vrmlist>
+          <vrm release="2013-11-04" version="1"/>
+        </vrmlist>
+
+        <featnum>0.1</featnum>
+
+        <series></series>
+      </prodinfo>
+    </metadata>
+  </prolog>
+
+  <conbody>
+    <p id="cover-image" outputclass="titeleinband"><image align="center" width="400px" height="600px"
+    href="titeleinband.gif"/></p>
+  </conbody>
+</concept>

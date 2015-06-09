@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-start_con" xml:lang="de-de">
+  <title>Anwendungsgebiete</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet</indexterm>
+
+        <indexterm>aktive Nutzer</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-start_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Aktive Nutzer</title><p>Es folgen einige Anwendungsgebiete
+    speziell der <keyword keyref="marke"/> , der zeitversetzten Übergabe von
+    Dingen. Das wohl wichtigste Merkmal ist jedoch, dass die Anwender nicht
+    nur auf den Empfang von Waren gestutzt werden, sondern selbst aktiv werden
+    können. Sie können nicht nur Dinge bezahlen, sondern auch Dinge über die
+    Box selbst verkaufen, vermieten, verborgen bzw. einfach so übergeben.
+    </p></section>
+
+    <section id="keimzelle"><title><keyword keyref="marke"/>-Depots als
+    Keimzelle für lokale Netzwerke</title><p
+    conref="../includes/concept_incl.xml#concept_incl/boxkeimzellenet"/></section>
+  </conbody>
+</concept>

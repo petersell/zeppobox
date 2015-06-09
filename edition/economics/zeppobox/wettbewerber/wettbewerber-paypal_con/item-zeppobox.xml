@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="wettbewerber-paypal_con" xml:lang="de-de">
+  <title>PayPal</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="03.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Wettbewerber<indexterm>PayPal</indexterm></indexterm>
+
+        <indexterm>PayPal</indexterm>
+
+        <indexterm>Oldenburg</indexterm>
+
+        <indexterm>eBay</indexterm>
+
+        <indexterm>QR-Code</indexterm>
+
+        <indexterm>Dahlmann, Frank</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="wettbewerber-paypal_con"/>
+  </prolog>
+
+  <conbody>
+    <p>PayPal ist der bekannteste Echtzeit-Überweisungsdienstleister. Wollte
+    ein Nutzer in der Vergangenheit eBay nutzen, wurde er genötigt, ein
+    PayPal-Konto anzulegen. Nun hat PayPal zwar viele neue Kunden, aber nur
+    geringe Transaktionen über diese Konten. Denn die Bereitschaft, eBay
+    nutzen, sinkt rapide. Und damit auch die Transaktionsprovisionen.</p>
+
+    <p><fig>
+        <title>QR-Scanner in Oldenburg</title>
+
+        <image alt="PayPal in Oldenburg" href="paypal-oldenburg.gif"
+               placement="break"/>
+      </fig></p>
+
+    <p>Im September 2013 startete PayPal in Oldenburg einen Test in der
+    Fußgängerzone Oldenburgs. Zitat von PayPal am 06.09.13:</p>
+
+    <p><cite>Stellen Sie sich vor, Sie flanieren an einem Sonntagmittag durch
+    die Stadt und sehen ein Kleidungsstück, das Sie seit langer Zeit suchen.
+    Oder Sie finden Ihr Wunschprodukt in einer Werbeanzeige in der Zeitung,
+    auf einem Flyer oder im lokalen TV, und wollen das Produkt direkt
+    bestellen und nach Hause liefern lassen. Hier ist der Ansatzpunkt für
+    PayPal QRShopping. Doch wie funktioniert das? Zu allererst lädt der Kunde
+    die PayPal QRShopping App auf sein internetfähiges Smartphone herunter und
+    hinterlegt sein PayPal Konto in der App. Im Schaufenster sieht er ein
+    Produkt, das er unbedingt haben will. Glücklicherweise hat der Händler
+    dieses mit einem QR Code ausgewiesen. Der Kunde scannt diesen Code mit der
+    PayPal QRShopping App und kann Produktdetails einsehen. Nachdem er Farbe
+    oder Größe ausgewählt hat, kann er sein Wunschprodukt in wenigen Schritten
+    bestellen und an die hinterlegte Lieferadresse schicken lassen. Einkaufen
+    mit der PayPal QRShopping App ist schnell und einfach, weil der Kunde
+    intuitiv und in wenigen Schritten den Bestellvorgang durchführen kann. Und
+    es ist sicher weil die QR-Codes ausschließlich von unserer App erkannt
+    werden und der Zugang durch einen Sicherheits-PIN geschützt ist. Darüber
+    hinaus gibt es gewohnten PayPal Käuferschutz.</cite></p>
+
+    <p>Der Kunde muss zum Point of Sale gehen. Auch ist nicht geklärt, ob die
+    andere Farbe oder Größe verfügbar ist? Trotzdem ein interessanter Ansatz,
+    ein Echtzeitkonto in die reale Welt zu überführen. Auch Vodafone benutzt
+    diesen Anzatz (Siehe 2. Link).</p>
+
+    <p>Es ist ein QR-Code-Bezahlsystem ähnlich Yapital. Ob die QR-Codes nun an
+    den Produkten selbst oder am Schaufenster angebracht sind, ist
+    unbedeutend. Der Lieferservice ist eher als Publicity zu verstehen - er
+    wird sich für die meisten Einzelhändler auf Dauer nicht rechnen.</p>
+
+    <p conref="../../includes/concept_incl.xml#concept_incl/brandeins-pay"/>
+
+    <section><title>Links</title><ul>
+        <li>PayPal QRShopping: Rund-um-die-Uhr-Shoppen in Oldenburg, <xref
+        format="html"
+        href="https://www.paypal.de/Blog/news/PayPal-QRShopping-Rund-um-die-Uhr-Shoppen-in-Oldenburg-die-%E2%80%9E%C3%9Cbermorgenstadt%E2%80%9C-hat-jetzt-durchgehend-ge%C3%B6ffnet/"
+        scope="external">zum Link</xref></li>
+
+        <li>QR-Shopping von Vodafone, <xref format="html"
+        href="https://plus.google.com/u/0/116120101115682460658/posts/SaYSirZ3h2T"
+        scope="external">zum Link</xref></li>
+
+        <li>Ideenwettbewerb Jovoto, <xref format="html"
+        href="http://www.abgl.de/eine-seite-2/paypal/" scope="external">zum
+        Link</xref></li>
+      </ul></section>
+
+    <section id="dahlmann-brandeins"><title>Quellen</title><ul>
+        <li
+        conref="../../includes/concept_incl.xml#concept_incl/sindwirquitt"/>
+      </ul></section>
+  </conbody>
+</concept>

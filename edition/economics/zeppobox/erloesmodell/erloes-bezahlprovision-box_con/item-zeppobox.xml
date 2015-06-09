@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="erloesmodell-start_con" xml:lang="de-de">
+  <title>Bezahlprovision via Schließfach</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher><keyword keyref="marke"/></publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="22.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Erlös<indexterm>Bezahlprovision durch Übergabevorgänge des
+        Schließfaches</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="erloesmodell-start_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Verkauf als auch Dienstleistungen</title><image
+    href="zeppopay-small.gif" placement="break"/><p>Sobald etwas über
+    das Schließfach verkauft wird, fällt eine Transaktionsgebühr an. Bei den
+    meisten Bezahldiensten bewegt sich diese bei etwa 3%. Aber auch die <xref
+    keyref="anwendungsgebiet-service-b2p_con">Dienstleistungen</xref>, die
+    durch die Schließfächer ermöglicht werden, erwirtschaften eine Provision
+    in dieser Höhe.</p></section>
+  </conbody>
+</concept>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="schliessfach-public-key_con" xml:lang="de-de">
+  <title>Public-Key-Verfahren</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="10.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Schließfach<indexterm>public key</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="schliessfach-public-key_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Übergabe basiert auf Verschlüsselung</title><p>Die
+    Übergabe eines Gegenstandes vom Sender zum Empfänger (und genau nur
+    diesem!) wird mithilfe von Verschlüsselungstechniken realisiert, welches
+    auf ein public-key-Verfahren basiert. Jeder Nutzer der <keyword
+    keyref="marke"/> besitzt ein Schlüsselpaar: einen geheimen und einen
+    öffentlichen Schlüssel.</p><p>Der geheime Schlüssel bleibt nur dem Nutzer
+    selbst bekannt, der öffentliche muss allen Teilnehmer des Netzwerkes
+    bekannt sein. Beim öffentlichen Schlüssel muss bestätigt werden, dass ein
+    öffentlicher Schlüssel einem bestimmten Nutzer zugeordnet werden kann.
+    Diese Bestätigung bzw. Authentifizierung erfolgt durch eine
+    Zertifizierungsstelle, die Zertifikate herausgibt. Die Zertifikatsdatei
+    bestätigt die Zuordnung eines öffentlichen Schlüssels zu einem
+    Nutzer.</p></section>
+
+    <section><title>Schließmechanismus</title><p>Der Sender verschlüsselt mit
+    Hilfe des im Zertifikat des Empfängers enthaltenen öffentlichen Schlüssels
+    einen Code. Erst wenn der Empfänger mit seinem dazugehörigen geheimen
+    Schlüssel diesen Code entschlüsselt, öffnet sich die Tür des
+    Faches.</p></section>
+
+    <section><title>Links</title><ul>
+        <li>Wikipedia: Verschlüsselung, <xref format="html"
+        href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung"
+        scope="external">zum Link</xref></li>
+
+        <li>Wikipedia: Public-Key-Infrastruktur, <xref format="html"
+        href="http://de.wikipedia.org/wiki/Public-Key-Infrastruktur"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

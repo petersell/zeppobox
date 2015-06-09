@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="standort-bahnhof_con" xml:lang="de-de">
+  <title>Bahnhof</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="08.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords/>
+    </metadata>
+
+    <resourceid id="standort-bahnhof_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Mit den Öffentlichen unterwegs</title><p>Für Nutzer, die
+    größtenteils mit öffentlichen Verkehrsmitteln unterwegs sind, und
+    besonders, wenn Sie zur Arbeit fahren, sind Bahnhöfe wichtige
+    Anlaufpunkte. Entweder sind dies die Bahnhöfe</p><ul>
+        <li>am Heimatort,</li>
+
+        <li>am Arbeitsort oder</li>
+
+        <li>Umsteigebahnhöfe.</li>
+      </ul><p>So wird z.B. ein Nutzer, der in einem Vorort wohnt, nie in den
+    Genuß der örtlichen Gewerbetreibenden kommen, da er nach der Arbeit nie
+    rechtzeitig vor Ladenschluß im heimatlichen Vorort wieder eintrifft. Die
+    Schließfächer ermöglichen ihm dies aber.</p></section>
+
+    <section><title>Bahnhöfe als Logistikknotenpunkt</title><p>Natürlich kann
+    man sich Bahnhöfe und Haltestellen jeglicher Art als Netz denken. Doch
+    anders als bei beim Tankstellennetz, wo der Autofahrer auf seiner Route
+    einfach weiter zur nächsten Tankstelle fährt, fährt der Passagier nicht
+    einfach so weiter, schon gar nicht, wenn es etwas kostet. Bahnhöfe sind
+    zumindestens Logistikknotenpunkte. Wenn hier zwei Nutzer den Bahnhof am
+    Tag nutzen, müssen sie das nicht zwingendermaßen um die selbe Zeit
+    tun.</p></section>
+  </conbody>
+</concept>

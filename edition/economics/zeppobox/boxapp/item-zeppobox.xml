@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="boxapp_con" xml:lang="de-de">
+  <title>Die Box-App</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="28.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Box-App<indexterm>Begriffsklärung</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="boxapp_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Begriffsklärung</title><p>Der Begriff App wird taucht
+    desöfteren auf und ist vielleicht mißverständlich. Wenn von der App die
+    Rede ist, meint es ausschließlich die <keyword keyref="marke"/>-App zum
+    Regeln der Übergabevorgänge am Schließfach. Sei es das Einstellen als auch
+    das Entnehmen von Dingen aus der <keyword keyref="marke"/>.</p></section>
+  </conbody>
+</concept>

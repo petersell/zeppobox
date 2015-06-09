@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="boxapp-funktionen_con" xml:lang="de-de">
+  <title>Die Grundfunktionen</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="28.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Box-App<indexterm>Funktionen</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="boxapp-funktionen_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>im Vorfeld eines Übergabevorgangs</title><ul>
+        <li>Suche nach einer freien Box in einem bestimmten Umkreis</li>
+
+        <li>Vorbestellung einer freien Box</li>
+      </ul></section>
+
+    <section><title>Nachrichten nach Einstellung des Gegenstandes durch den
+    Sender</title><ul>
+        <li>Nachricht an Empfänger, dass etwas wo bereitsteht</li>
+
+        <li>Quittungsnachricht an Sender, dass etwas in ein Fach eingestellt
+        wurde</li>
+
+        <li>Nachricht an das System, dass Box besetzt ist</li>
+      </ul></section>
+
+    <section><title>Bezahlfunktionen nach Einstellung des
+    Gegenstandes</title><ul>
+        <li>Abzug der Einstellgebühr vom Senderkonto bzw. Überprüfung, ob
+        Nutzungspauschale entrichtet wurde</li>
+      </ul></section>
+
+    <section><title>Nachrichten nach Entnahme des Gegenstandes durch den
+    Empfänger</title><ul>
+        <li>Nachricht an Sender, dass Gegenstand entnommen wurde</li>
+
+        <li>Nachricht an das System, dass die Box wieder frei ist</li>
+      </ul></section>
+
+    <section><title>Bezahlfunktion nach Entnahme des Gegenstandes</title><ul>
+        <li>Abzug des Kaufpreises vom Empfängerkonto</li>
+
+        <li>Überweisung des Kaufpreises auf Senderkonto</li>
+
+        <li>Abzug der Bezahlprovision vom Senderkonto</li>
+      </ul>Es steht den gewerblichen Nutzern frei, Dienstleistungen wie das
+    Reservieren von Waren, das Bereitstellen von Kleidungsstücken zur Anprobe
+    in einen Schließfach uvm. beim Privatnutzer via Online-Verrechnungskonto
+    in Rechnung zu stellen.</section>
+  </conbody>
+</concept>

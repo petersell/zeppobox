@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-empfangsbestaetigung_con" xml:lang="de-de">
+  <title>Eingangs - und Empfangsbestätigung</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="03.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet<indexterm>Empfangsbestätigung</indexterm></indexterm>
+
+        <indexterm>Empfangsbestätigung</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-empfangsbestaetigung_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Beispiele</title><p>Es folgen Beispiele für die Übergabe
+    von Dingen unter sämtlichen Nutzern des Netzwerks - in deren Gefolge eine
+    Eingangszeit eine große Rolle spielt und im Anschluss eventuell eine
+    Empfangsbestätigung an den Sender zurückgeschickt wird. Während die
+    Eingangsmitteilung kostenlos ist, kommt die Gebühr für die
+    Empfangsbestätigung einzig allein <keyword keyref="marke"/> zu
+    Gute.</p><p>Vorteil für den Sender: Der Prozeß der Übergabe des
+    Gegenstandes wird sofort protokolliert und es ergeht eine
+    Eingangsmitteilung an den Empfänger. Auch die Empfangsbestätigung erfolgt
+    sofort bei Entgegennahme des Gegenstandes durch den
+    Empfänger.</p><p>Vorteil für den Empfänger: er kann den Gegenstand später
+    entgegennehmen, obwohl der Eingang schon z.B um 0.00 Uhr erfolgte. Die
+    Bedingung, dass der Eingang um 0.00 Uhr zu erfolgen hat, wurde
+    erfüllt.</p></section>
+
+    <section><title>Beispiel Universität</title><p>Studenten haben die
+    Auflage, bis um 0.00 Uhr eines Stichtages eine Seminararbeit abzugeben.
+    Sie halten die geforderte Eingangszeit durch Übergabe in ein <keyword
+    keyref="marke"/>-Postfach ein.</p><p>Die Universitäten spielen eine
+    wichtige Rollen für die Nutzergruppe der Eearly Adopters.</p></section>
+  </conbody>
+</concept>

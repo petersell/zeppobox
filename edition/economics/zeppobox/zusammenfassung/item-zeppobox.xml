@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="geschaeftsmodell-zusammenfassung_con" xml:lang="de-de">
+  <title>Zusammenfassung</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="03.09.2013"/>
+    </critdates>
+    <metadata>
+      <keywords>
+        <indexterm>Zusammenfassung des Geschäftsmodells</indexterm>
+
+        </keywords>
+    </metadata>
+
+    <resourceid id="geschaeftsmodell-zusammenfassung_con"/>
+  </prolog>
+
+  <conbody/>
+</concept>

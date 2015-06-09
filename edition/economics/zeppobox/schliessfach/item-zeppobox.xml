@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/topic.dtd">
+<topic id="schliessfach_topic" xml:lang="de-de">
+  <title>Schließfach</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>ditalog.com</publisher>
+
+    <copyright>
+      <copyryear year="2015"/>
+
+      <copyrholder>ditalog.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="06.05.2015"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Schließfach</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>Ditalog</prodname>
+
+        <vrmlist>
+          <vrm release="10.02.2015" version="2"/>
+        </vrmlist>
+
+        <brand>zeppobox</brand>
+
+        <component>zeppobox</component>
+
+        <featnum/>
+
+        <series/>
+      </prodinfo>
+    </metadata>
+
+    <resourceid id="schliessfach_topic"/>
+  </prolog>
+
+  <body/>
+</topic>

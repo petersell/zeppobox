@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="standort-tankstelle_con" xml:lang="de-de">
+  <title>Tankstelle</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="08.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Standort<indexterm>Tankstelle</indexterm></indexterm>
+        <indexterm>Tankstellennetz als Logistikknotenpunkte</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="standort-tankstelle_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Mit dem Auto unterwegs</title><p>Für Nutzer, die
+    größtenteils mit dem Auto unterwegs sind, und besonders, wenn Sie zur
+    Arbeit fahren, sind Tankstellen wichtige Anlaufpunkte. Tankstellen in
+    umittelbarer Nähe des Wohnortes und des Arbeitsortes spielen eine
+    besondere Rollen.</p><p>Die Tankstelle ermöglicht das Übergeben von Dingen
+    für Autofahrer besonders bequem, da letztere nicht weit von ihrer Route
+    abweichen müssen. Auch können sie bei dieser Gelegenheit auch tanken und
+    einen Imbiss nehmen.</p><p>So wird z.B. ein Nutzer, der in einem Vorort
+    wohnt, nie in den Genuß der örtlichen Gewerbetreibenden kommen, da er nach
+    der Arbeit nie rechtzeitig vor Ladenschluß im heimatlichen Vorort wieder
+    eintrifft. Die Schließfächer in der Tankstelle in der Nähe des Heimatortes
+    ermöglichen ihm dies aber.</p></section>
+
+    <section><title>Tankstellennetz als Logistikknotenpunkte</title><p>Wenn
+    man sich die vielen Tankstellen als Netz von Tankstellen denkt, können
+    diese viel mehr Funktionen übernehmen als das Tanken von Kraftstoff für
+    ein und das selbe Fahrzeug. Die Postdienstleister benutzen Fahrzeuge. Das
+    trifft aber für jeden anderen auch zu: nahezu jeder benutzt ein Fahrzeug.
+    Tankstellen könnten ebenso kleine Logistikzentren für jedermann
+    werden.</p></section>
+  </conbody>
+</concept>

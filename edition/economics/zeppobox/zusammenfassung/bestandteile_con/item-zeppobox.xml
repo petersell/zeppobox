@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="bestandteile_con" xml:lang="de-de">
+  <title>Die 4 Bestandteile der Zeppobox</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher><keyword keyref="marke"/></publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="03.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Bestandteile der <keyword keyref="marke"/></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="bestandteile-zeppobox_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Zusammenfassung</title><p><keyword keyref="marke"/>
+    verbindet ein lokales Netzwerk und ein Echtzeit-Bezahlsystem mit einer
+    <i>Killeranwendung</i> der realen Welt: Schließfächer, die die
+    zeitversetzte Übergabe bzw. den Verkauf von Dingen eines Senders an einen
+    bestimmten Empfänger ermöglichen.</p><p>Die Entwicklung von temporär
+    nutzbaren Schließfächern auf der Basis einer Public-Key-Verschlüsselung
+    erfordert einiges an Investitionen. Der Betreiber wird jedoch mit der
+    Etablierung des führenden Bezahlsystems der Online- und Offlinewelt
+    belohnt.</p><p><keyword keyref="marke"/> ist nichts geringeres als das
+    lokale Internet der Dinge. Es zeigt an, das ein Ding zur Nutzung bzw.
+    Verkauf zur Verfügung steht und bei wem. Mit längerer Nutzung und
+    Erfahrung der Teilnehmer wandeln sich die 4 Komponenten zu einem
+    Framework, einem Werkzeugkasten für neue Geschäftsideen. Das
+    Geschäftsmodell hat einen hohen Grad der Monetarisierung.</p><p>Die
+    <keyword keyref="marke"/> besteht aus vier Komponenten. </p></section>
+
+    <section><title>1) Schließfach</title><p><image alt="Zeppobox"
+    href="zeppobox-small.gif" placement="break"/>Der Kunde (privat oder
+    gewerblich) kann jederzeit und jeden Orts ein Schließfach temporär für
+    bestimmte Übergabevorgänge nutzen. Es kann nur der vorherbestimmte
+    Empfänger das Schließfach öffnen. Der Sender selbst kann es nicht wieder
+    öffnen. Ein <keyword keyref="marke"/>-Schließfach ist kein gewöhnliches
+    Gepäckaufbewahrungsfach!</p><p>Der Betreiber betreibt ein Netzwerk von
+    Schließfachdepots an ausgesuchten Orten. Er überläßt Schließfächer an
+    Kunden für eine temporäre Nutzung ausschließlich für den Zweck der
+    Übergabe an einen anderen Empfänger als er selbst.</p></section>
+
+    <section><title>2) Smartphone-App zum Schließfach und Depot</title><image
+    alt="Zeppobox" href="zeppobox-small.gif" placement="break"/><p>Die App
+    administriert die Übergabe-Vorgänge im Zusammenhang mit dem Schließfach
+    und gibt Auskunft über ein bestimmtes <keyword
+    keyref="marke"/>-Depot.</p><p>Die App informiert z.B.</p><ul>
+        <li>einen Sender, wo ein Schließfach frei ist und somit reserviert
+        werden kann,</li>
+
+        <li>einen Empfänger, wo etwas von wem für ihn hinterlegt ist,</li>
+
+        <li>alle Nutzer, welche Dienstleistungen für ein bestimmtes <keyword
+        keyref="marke"/>-Depot (z.B. eine Tankstelle) möglich sind,</li>
+      </ul><p>Nutzer können für einen Übergabevorgang Gruppen einrichten, um
+    mehrere Personen den Empfang, die Öffnung eines Faches zu
+    ermöglichen.</p></section>
+
+    <section><title>3) <keyword keyref="marke"/>-Netzwerk</title><image
+    alt="Zepponet" href="zepponet-small.gif" placement="break"/><p
+    conref="../../includes/concept_incl.xml#concept_incl/boxkeimzellenet"/><p>Das
+    Netzwerk ermöglicht den Informationsaustausch zwischen den
+    Netzwerkteilnehmern. Doch darf es nicht mit Facebook oder Google+
+    verwechselt werden. Es geht nicht um Inhalte oder den Ausdruck von
+    Befindlichkeiten. Das Netzwerk bildet in der Mehrzahl bilaterale
+    Beziehungen ab. Ein Nutzer muss einen anderen bezüglich eines
+    Übergabevorgangs oder Verkaufs kontaktieren. Der Mißbrauch ist
+    ausgeschlossen.</p><p>Der gewerbliche Account zum Netzwerk wird berechnet,
+    der private dagegen nicht.</p></section>
+
+    <section><title>4) Echtzeitkonto</title><image alt="Zeppopay"
+    href="zeppopay-small.gif" placement="break"/><p>Nutzer der <keyword
+    keyref="marke"/> erhalten ein Online-Verrechnungskonto zu ihrem
+    Giroreferenzkonto. Jedem Teilnehmer wird es ermöglicht, Dienstleistungen
+    und Verkäufe abzurechnen bzw. zu bezahlen. Auch im Micropayment-Bereich.
+    Die Verkäufe müssen nicht zwingend über das Schließfach laufen. Sie können
+    auch mit dem Echtzeitkonto beim Anbieter von Dingen und Dienstleistungen
+    vor Ort, in dessen Geschäftsräumen bezahlen.</p><p>Der Betreiber verdient
+    an jeder Transaktion über das Verrechnungskonto.</p></section>
+  </conbody>
+</concept>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="wettbewerber-stuffle_con" xml:lang="de-de">
+  <title>stuffle.it</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Wettbewerber<indexterm>stuffle.it</indexterm></indexterm>
+
+        <indexterm>stuffle.it</indexterm>
+
+        <indexterm>ClickAndBuy</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="wettbewerber-stuffle_con"/>
+  </prolog>
+
+  <conbody>
+    <p>stuffle.it ist ein Start-up aus Hamburg. Es bietet eine App für einen
+    lokalen Flohmarkt an.</p>
+
+    <p><fig>
+        <title>Privatkunden im Fokus</title>
+
+        <image href="stuffle-it.gif" placement="break"/>
+      </fig></p>
+
+    <section><title>Nur eine Option unter mehreren</title><p>Nachteilig ist,
+    dass der Privatkunde noch viele andere Wege der Geldüberweisung nutzen
+    kann. Es gibt keinen wichtigen Grund, dieses System dauerhaft zu
+    nutzen.</p></section>
+
+    <section><title>Bezahlsystem von ClickAndBuy</title><p>Als optionales
+    Bezahlsystem wird das der Telekom-Tocher ClickAndBuy angeboten. Es soll
+    der Sicherheit dienen, ähnlich wie bei PayPal. Auf dem Blog heißt es zu
+    den Kosten:</p><p><cite>Für Käufer ist dieser Service vollkommen
+    kostenlos. Verkäufer zahlen geringe Gebühren, die nach einem ganz
+    einfachen Schema funktionieren: Bei Verkäufen bis 10 € zahlst du nur 99
+    Cent, Verkäufe bis 50 € kosten dann 1,99 €. Beträgt der Warenwert 50 bis
+    100 €, so zahlst du nur 2,99 €. Erst bei teureren Sachen fallen zusätzlich
+    3% vom Verkaufswert an.</cite></p><p>Nachteilig für stuffle.it ist, dass
+    die Möglichkeit des Geldverdienens in fremde Hände gelegt
+    wird.</p></section>
+
+    <section><title>Links</title><ul>
+        <li>stuffle.it, <xref format="html" href="http://blog.stuffle.it/"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+"topic.dtd">
+<topic id="zeppobox_topic" xml:lang="de-de">
+  <title>Zeppobox</title>
+
+  <shortdesc>Die Zeppobox ist eine Geschäftsidee, die ein temporär genutztes Schließfach in der realen Welt mit einem sozialen Netzwerk und einen Bezahlsystem der Online-Welt verbindet.</shortdesc>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <copyright>
+      <copyryear year="2014"/>
+
+      <copyrholder>Andreas Petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.02.2015"/>
+    </critdates>
+
+    <metadata>
+      <prodinfo>
+        <prodname>Zeppobox</prodname>
+
+        <vrmlist>
+          <vrm release="2014" version="1.0"/>
+        </vrmlist>
+      </prodinfo>
+    </metadata>
+  </prolog>
+
+  <body>
+    <section><title>Download</title><ul>
+        <li>Download als <xref format="html"
+        href="http://www.petersell.com/zeppobox/"
+        scope="external">PDF</xref></li>
+
+        <li>Download als <xref format="html"
+        href="http://www.petersell.com/zeppobox/"
+        scope="external">EPUB</xref></li>
+
+    </ul></section>
+
+    <section><title>Inhalt</title><p/></section>
+  </body>
+</topic>

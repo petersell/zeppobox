@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-transfer-p2p_con" xml:lang="de-de">
+  <title>Privat zu Privat - kostenlose Übergabe</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+
+      <revised modified="04.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet<indexterm>Übergabe von Privat zu
+        Privat</indexterm></indexterm>
+
+        <indexterm>Privat zu privat</indexterm>
+
+        <indexterm>Autoschlüssel</indexterm>
+
+        <indexterm>Wohnungsschlüssel</indexterm>
+
+        <indexterm>Fundstück</indexterm>
+
+        <indexterm>Schnäppchen</indexterm>
+
+        <indexterm>Kommilitone</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-transfer-p2p_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Beispiele</title><p>Allgemein gilt: es übergibt jemand
+    etwas kostenlos dem anderen. Meist ist A der Sender, der für B etwas
+    hinterlegt. Aber auch folgende Konstellation ist möglich: A hinterlegt
+    etwas für C, der es dann anschließend für B nachträglich mitbringt, d.h.
+    persönlich übergibt.</p></section>
+
+    <section><title>KFZ-Schlüsselübergabe</title><p>Ein Familienmitglied
+    hinterlegt für ein anderes Familienmitglied am Bahnhof den Autoschlüssel.
+    Natürlich ist dies auch für Freunde und Bekannte möglich.</p></section>
+
+    <section><title>Wohnungsschlüsselübergabe</title><p>Ein Familienmitglied
+    hinterlegt für ein anderes Familienmitglied in Wohnortnähe den
+    Wohnungsschlüssel. Natürlich ist dies auch für jeden anderen möglich, wie
+    z.B. Handwerker.</p></section>
+
+    <section><title>Fundstück</title><p>Jemand hat irgendwo etwas vergessen.
+    Der Finder übergibt das Fundstück dem <keyword keyref="marke"/>-Teilnehmer
+    über ein Schließfach. Ist ein Finderlohn ausgelobt, wird dieser
+    automatisch dem Finder gutgeschrieben. Dies wäre möglich, wenn man bei
+    <keyword keyref="marke"/> Aufkleber oder Chips ähnlich wie bei
+    de.bringmeback.com erhalten könnte.</p></section>
+
+    <section><title>Universität</title><p>Kommilitonen übergeben Mitschriften,
+    Kopien, Lehrbücher etc. anderen Kommilitonen. Kommilitonen sehen sich
+    nicht jeden Tag, denn sie besuchen ein gemeinsames Seminar an einem
+    Wochentag, aber die restlichen Wochentage sehen sie sich nicht. So erhält
+    jedoch der Kommilitone noch vor dem Wochenende seine Materialien. Der
+    Sender der Materialien kann beruhigt ins Wochenende fahren.</p><p>Eine
+    Lehrkraft teilt über die <keyword keyref="marke"/> Lehrmaterial bzw.
+    Kopien an mehrere Studenten aus.</p><p>Die Universitäten spielen eine
+    wichtige Rollen für die Nutzergruppe der Early Adopters.</p></section>
+
+    <section><title>Kostenlose Dienstleistung</title><p>Jemand übergibt jemand
+    anderem ein PC mit der Bitte, dass dieser den Virenbefall erfolgreich
+    bekämpfen möge.</p></section>
+
+    <section><title>Schnäppchenübergabe</title><p>Jemand hat für jemand
+    anderen etwas gekauft und stellt dieses <i>Schnäppchen</i> via Schließfach
+    zur Verfügung.</p></section>
+
+    <section><title>Link</title><ul>
+        <li id="jederkannschreiben">BringMeBack.com, <xref format="html"
+        href="http://de.bringmeback.com/Home/HowItWorks" scope="external">zum
+        Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="impressum_con" xml:lang="de-de">
+  <title/>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <author type="contributor">zeppobox.com</author>
+
+    <source/>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>Andreas Petersell</copyrholder>
+    </copyright>
+  </prolog>
+
+  <conbody>
+    <p otherprops="center" outputclass="impressumzeilezwei">* * *</p>
+
+    <p otherprops="center" outputclass="impressumzeilezwei">Veröffentlicht am 01.11.2013.</p>
+
+    <p otherprops="center" outputclass="impressumzeilezwei">Download dieses
+    Buches unter zeppobox.publication.work</p>
+
+    <p otherprops="center" outputclass="impressumzeilezwei">* * *</p>
+
+    <p otherprops="center" outputclass="impressumzeilezwei">© 2015 Andreas Petersell, Berlin</p>
+    
+    <p otherprops="center"
+    outputclass="impressumzeilezwei">www.seminarwork.com</p>
+    
+    <p id="verlag" otherprops="center"><image href="images/verlag-seminarwork.gif"
+    placement="break"/></p>
+  </conbody>
+</concept>

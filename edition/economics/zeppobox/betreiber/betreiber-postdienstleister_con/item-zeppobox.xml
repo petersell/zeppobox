@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="betreiber-postdienstleister_con" xml:lang="de-de">
+  <title>Postdienstleister als Betreiber - Nein!</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="17.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Betreiber<indexterm>Postdienstleister</indexterm></indexterm>
+        <indexterm>Postdienstleister</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="betreiber-postdienstleister_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Das Geschäftsmodell <i><keyword keyref="marke"/></i> erscheint auf dem ersten Blick
+    ideal für einen Postdienstleister als Betreiber, da Synergieeffekte
+    genutzt werden könnten:</p>
+
+    <ul>
+      <li>Die Zusteller können bei Abwesenheit des Empfängers einer
+      Postsendung auf dessen <keyword keyref="marke"/>-Teilnahme zurückgreifen. Durch das
+      Hinterlegen der Postsendung in einem <keyword keyref="marke"/>-Fach wird die Übergabe
+      trotzdem realisiert. Der Empfänger erhält eine Nachricht bzw. E-Mail an
+      seinen <keyword keyref="marke"/>-Account über die Zustellung einer normalen Postsendung.
+      Dies sichert nicht nur Authentizität und Integrität, sondern auch in
+      einem höheren Maße Vertraulichkeit. Das Hinterlegen einer Postsendung
+      beim Nachbarn ist unsicher und auch das Erkennen des Absenders der
+      Postsendung durch den Nachbarn dient nicht der Vertraulichkeit.</li>
+
+      <li>Der Postdienstleister muss nicht immer selbst die Postsendungen
+      überbringen. Das können die Beteiligten in vielen Fällen selbst. Es
+      entlastet die Umwelt und trotzdem verdient der Postdienstleister
+      mit.</li>
+    </ul>
+
+    <p>Jedoch ist z.B. der größte deutsche Postdienstleister, die Deutsche
+    Post AG inklusive dem Paketzustellter DHL, aufs engste mit dem
+    Online-Handel und dessen Devise des Bringeservice verknüpft. Es geht bei
+    DHL immer nur darum, die Logistik zu verbessern und effizienter zu
+    gestalten. Die <keyword keyref="marke"/> ist jedoch kein Zwischenparkplatz für den
+    Online-Handel. Sie ist Bindeglied zur Übergabe von Dingen
+    zwischen Sender und Empfänger direkt. Nur in Ausnahmfällen, wenn der
+    Teilnehmer einem Postdienstleister zugestanden hat, als Sender
+    auftreten zu dürfen, darf ein Postdienstleister bei Abweisenheit des
+    Empfängers einer Postsendung die <keyword keyref="marke"/> des Teilnehmers
+    nutzen.</p>
+
+    <p>Auch wenn es verlockend erscheint, einen Postdienstleister als
+    Betreiber für <keyword keyref="marke"/> zu gewinnen, so ist es dennoch keine Option. Diese
+    sind zu sehr mit dem Onlinehandel verwebt.</p>
+
+    <section><title>Links</title><ul>
+        <li id="jederkannschreiben">Jeder kann Bostbote sein - MyWays.com,
+        <xref format="html" href="https://www.myways.com/"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

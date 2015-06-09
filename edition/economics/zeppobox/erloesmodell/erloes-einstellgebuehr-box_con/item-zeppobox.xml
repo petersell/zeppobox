@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="erloesmodell-start_con" xml:lang="de-de">
+  <title>Einstellgebühr bzw. Nutzerpauschale zum Schließfach</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher><keyword keyref="marke"/></publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="22.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Erlös<indexterm>Einstellgebühr für das
+        Schließfach</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="erloesmodell-start_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Einzelgebühr bei kostenlosem Account</title><image
+    href="zeppobox-small.gif" placement="break"/><p>Beim kostenlosen Account
+    kostet jedes Einstellen eines Gegenstandes des Senders einen bestimmten
+    Betrag. Diese kann aber nur einen Bruchteil des vergleichbaren
+    Portopreises betragen. Jedem Verkäufer bzw. Sender ist es freigestellt,
+    die Einstellgebühr beim Käufer bzw. Empfänger wieder <i>zurückzuholen</i>
+    bzw. mit einzupreisen.</p><p>Die Attraktivität der <keyword
+    keyref="marke"/> lebt jedoch auch davon, dass preislich geringfügige
+    Gegenstände übergeben, verkauft oder ausgeliehen werden. Die Höhe der
+    Einstellgebühr darf diese Attraktivität nicht vernichten.</p></section>
+
+    <section><title>Nutzerpauschale - verschiedene Nutzeraccounts</title><p
+    conref="../../includes/concept_incl.xml#concept_incl/accountmodelle-hinweis"/><p>Oben
+    bereits erwähnt der 1. Privat-Account. Es wird keine Nutzerpauschale
+    erhoben, aber für einen Einstellvorgang eine geringe Einzelgebühr
+    eingezogen.</p></section>
+
+    <section
+    conref="../../includes/concept_incl.xml#concept_incl/account-teamleiter"/>
+
+    <section
+    conref="../../includes/concept_incl.xml#concept_incl/account-profi"/>
+
+    <section
+    conref="../../includes/concept_incl.xml#concept_incl/account-marketing"/>
+  </conbody>
+</concept>

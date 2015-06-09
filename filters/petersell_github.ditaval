@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop action="exclude" att="product" val="print" />
+  <prop action="exclude" att="product" val="github" />
+  <prop action="include" att="product" val="epub" />
+  <prop action="include" att="product" val="petersell" />
+  <prop action="include" att="product" val="wordpress" />
+  <prop action="include" att="product" val="online" />
+  <prop action="include" att="otherprops" val="chunking-yes"/>
+  <prop action="exclude" att="otherprops" val="chunking-no"/>
+  <prop action="exclude" att="otherprops" val="about-author"/>
+  <prop action="include" att="otherprops" val="inhalt"/>
+  <prop action="include" att="otherprops" val="center-big"/>
+  <prop action="include" att="otherprops" val="center"/>
+  <prop action="flag" att="otherprops" val="bedingung">
+        <startflag>
+          <alt-text>Voraussetzung: </alt-text>
+        </startflag>
+  </prop>
+  <prop action="flag" att="otherprops" val="ergebnis">
+      <startflag>
+        <alt-text>Ergebnis: </alt-text>
+      </startflag>
+ </prop>
+</val>
+

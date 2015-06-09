@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="betreiber-echtzeitkonto_con" xml:lang="de-de">
+  <title>Echtzeitkonto-Anbieter oder Bank als Betreiber</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="13.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Betreiber<indexterm>Echtzeitkonto-Anbieter</indexterm></indexterm>
+
+        <indexterm>Betreiber<indexterm>Bank</indexterm></indexterm>
+
+        <indexterm>Betreiber<indexterm>mit Banklizenz</indexterm></indexterm>
+
+        <indexterm>Klotz, Maik</indexterm>
+
+        <indexterm>t3n.de</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="betreiber-echtzeitkonto_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Das Geschäftsmodell <i><keyword keyref="marke"/></i> funktioniert für
+    einen Anbieter von Echtzeit-Konten bzw. einer Bank am besten, da
+    Synergieeffekte genutzt werden können:</p>
+
+    <ul>
+      <li>denn nur dieser hat Erfahrung mit Echtzeit-Überweisungen mit
+      angebundenem Girokonto als Referenzkonto, und nur</li>
+
+      <li>dieser hat bereits eine Banklizenz in Deutschland.</li>
+    </ul>
+
+    <p>Ohne Kooperation wird es nicht gehen. In Frage käme jede deutsche Bank,
+    die am Aufbau eines Echtzeit-Kontosystems interessiert ist, denn letztlich
+    ist das die Zukunft im Mobile Payment und Micropayment. Aber auch
+    Neugründungen wie <xref
+    href="../../wettbewerber/wettbewerber-yapital_con/item-zeppobox.xml"
+    scope="local">Yapital</xref> zeigen, dass man auch ohne jahrelange
+    Bankerfahrung etwas aufbauen kann.</p>
+
+    <p
+    conref="../../includes/concept_incl.xml#concept_incl/zeppobox-echtzeitkonto"/>
+
+    <section><title>Banken bisher außen vor</title><p>Frank Dahlmann schrieb
+    im April 2013 in einem Artikel über neue Bezahlsysteme unter der
+    Überschrift <i>Die Verlierer</i>:</p><p><cite>Bisher dominieren Banken und
+    Kreditkartenunternehmen das Geschäft. Sie stellen die Terminals, machen
+    die Verträge und sorgen für die Abwicklung. Sie könnten auch die großen
+    Verlierer werden. Während sich die Kreditkartenunternehmen zunehmend an
+    Square und Co. beteiligen, um nicht aus dem Markt gedrängt zu werden,
+    verlieren die Banken zunehmend den direkten Kontakt zum Kunden und
+    rutschen in die reine Abwicklerrolle hinein. Die Wertschöpfungskette
+    verläuft ohne sie.[1]</cite></p><p>Im Magazin t3n sieht Maik Klotz derzeit
+    5 Big Player im Markt des Mobile Payment: Amazon, Apple, Google, PayPal
+    und Mobilfunkprovider T-Mobile. </p><p><cite>Einen eindeutigen Gewinner
+    gibt es noch nicht, aber es gibt Anbieter, die einen gewissen Vorsprung
+    haben. Die Banken bei der Betrachtung auszuschließen, ist sicher falsch.
+    Auf der anderen Seite könnte es sein, dass sie dazu verdammt sind, den
+    Zahlungsverkehr abzuwickeln und beim Mobile Payment nur im Hintergrund
+    operieren werden.[2]</cite></p></section>
+
+    <section id="dahlmann-brandeins"><title>Quellen</title><ul>
+        <li
+        conref="../../includes/concept_incl.xml#concept_incl/sindwirquitt"/>
+
+        <li>[2] Maik Klotz, Mobile Payment: Die „Big Five“ und warum Startups
+        keine Chance haben, <xref format="html"
+        href="http://t3n.de/news/mobile-payment-big-startups-502020/"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+
+    <section><title>Links zu Echtzeit-Überweisungsanbietern</title><ul>
+        <li>PayPal (USA und Luxemburg), <xref format="html"
+        href="https://www.paypal.com/de/webapps/mpp/privatkunden"
+        scope="external">zum Link</xref></li>
+
+        <li>Skrill (Großbritannien), <xref format="html"
+        href="https://www.skrill.com/de/privat/" scope="external">zum
+        Link</xref></li>
+
+        <li>Yapital.com, <xref format="html"
+        href="https://beta.yapital.com/de/consumer/index" scope="external">zum
+        Link</xref></li>
+
+        <li>FidorPay (Deuschland), <xref format="html"
+        href="https://www.fidor.de/produkte/fidorpay" scope="external">zum
+        Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

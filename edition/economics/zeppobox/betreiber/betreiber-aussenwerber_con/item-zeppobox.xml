@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="betreiber-aussenwerber_con" xml:lang="de-de">
+  <title>Außenwerber als Betreiber</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="04.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Betreiber<indexterm>Aussenwerber</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="betreiber-aussenwerber_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Das Geschäftsmodell <i><keyword keyref="marke"/></i> könnte auch in
+    Kooperation mit einen Außenwerber und Stadtmöbelaufsteller funktionieren,
+    da Synergieeffekte genutzt werden können:</p>
+
+    <ul>
+      <li>Die Mitarbeiter sind zur Reinigung und Austausch der Werbemittel
+      immer vor Ort und in der Nähe der Schließfächer. Der gepflegte Eindruck
+      der Anlagen und die jahrelange Erfahrung schaffen Vertrauen bei
+      Privatnutzern und Gewerbetreibenden.</li>
+
+      <li>Der Außenwerber erwirtschaftet durch die Werbung und
+      Broschüren-Erstellung im Zusammenhang der temporären Schließfächer
+      sofort Einnahmen.</li>
+
+      <li>Die lokalen Gewerbetreibenden wissen: geht es ihnen gut, geht es
+      auch dem Außenwerber gut. Der Außenwerber erhält von den lokalen
+      Gewerbetreibenden ein Vertauensvorschuß derart, dass er als Mandant bzw.
+      Interessenvertreter wahrgenommen wird.</li>
+    </ul>
+
+    <p>Eine Beteiligug eines Aussenwerbers ist nicht zwingend. Ob nun mit oder
+    ohne Kooperation: die indirekt erzielten Einnahmen durch Werbung,
+    redaktionellen Dienstleistungen und App-Programmierung sind nicht zu
+    unterschätzen.</p>
+  </conbody>
+</concept>

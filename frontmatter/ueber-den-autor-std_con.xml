@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="ueber-den-autor-std_con" xml:lang="de-de">
+  <title>Über den Autor</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell</publisher>
+
+    <copyright>
+      <copyryear year="2011"/>
+
+      <copyrholder>petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="09.12.2011"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Kurzbiographie</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname/>
+
+        <vrmlist>
+          <vrm release="2011-11-01" version="1"/>
+        </vrmlist>
+
+        <featnum>0.1</featnum>
+
+        <series/>
+      </prodinfo>
+    </metadata>
+
+    <resourceid id="ueber-den-autor-std_con"/>
+  </prolog>
+
+  <conbody conref="../../includes/frontmatter/ueber-den-autor_con.xml#kurzbiographie_con/ueber-den-autor-std"/>
+</concept>

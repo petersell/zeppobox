@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-transfer-p2p_con" xml:lang="de-de">
+  <title>Geschäftlich zu Privat - Verkauf</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+
+      <revised modified="04.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet<indexterm>Verkauf von Geschäftlich zu
+        Privat</indexterm></indexterm>
+
+        <indexterm>Kommilitone</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-transfer-p2p_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Beispiele</title><p>Es folgen Beispiele für den Verkauf
+    von Dingen von Geschäftskunden an Privatkunden des Netzwerks. Allgemein
+    gilt: es übergibt jemand etwas gegen Bezahlung dem anderen.</p><p>Vorteil
+    für den Verkäufer: Der Verkäufer hätte unter Umständen diesen Kunden gar
+    nicht, da der Kunde ihn nicht innerhalb der Geschäftszeiten aufsuchen
+    könnte. So jedoch spielt die Geschäftszeit keine Rolle mehr. Die Bezahlung
+    erfolgt sofort nach Entgegennahme durch den Kunden.</p><p>Vorteil für den
+    Käufer: er kann den Gegenstand auch außerhalb der Geschäftszeiten
+    entgegennehmen. Der Kunde muss eventuell das Bahnhofsgelände oder die
+    Autobahn gar nicht verlassen.</p></section>
+
+    <section><title>Warenverkauf bzw. Abonnement</title><p>Ein örtlicher
+    Einzelhändler und ein Stammkunde kommen überein, dass für letzteren
+    bestimmte Waren über die <keyword keyref="marke"/> bereitgestellt werden
+    können. Entweder sie richten für bestimmte Waren ein Abonnement auf
+    Widerruf ein oder aber der Kunde bestellt explizit jedes mal neu die Ware
+    über das Netzwerk.</p><p>Der Verkauf von Nonfood-Artikeln ist nicht neu.
+    Seidensticker zeigt mit seinen Hemd-to-go-Automaten an Flughäfen, dass
+    dies funktionieren kann [1].</p></section>
+
+    <section><title>Gemietete Boxen oder verschloßene Regale</title><p
+    conref="../../includes/concept_incl.xml#concept_incl/zugangskontrolle"/><p>Die
+    Technologie der Zugangskontrolle - mit der großen Anwenderschaft der
+    <keyword keyref="marke"/>, könnte in Lizenz vergeben werden.</p></section>
+
+    <section><title>Quellen</title><ul>
+        <li id="jederkannschreiben">[1] Hemd to go - Seidensticker und
+        Telefónica Germany bringen M2M-Innovation in den Textilverkauf, <xref
+        format="html"
+        href="http://www.telefonica.de/news/303/msg/0/4118/0/hemd-to-go-seidensticker-nutzt-m2m-innovation-im-textilverkauf.html"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

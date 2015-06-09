@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="standort-bankgeldautomat_con" xml:lang="de-de">
+  <title>Weitere Standorte</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords/>
+    </metadata>
+
+    <resourceid id="standort-bankgeldautomat_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Bankautomat - In der Stadt unterwegs</title><p>Räume für
+    Bankgeldautomaten befinden sich meist in zetralen Lagen. Sie sind gepflegt
+    und videoüberwacht.</p></section>
+
+    <section><title>Hotel - Hotellobby</title><p>Hotellobbys haben nur einen
+    kleinen Vorteil: sie sind auch noch spät in der Nacht erreichbar. Sie
+    können für die Gäste einer Stadt wichtig sein.</p></section>
+
+    <section><title>Supermarkt - Langes Einkaufen</title><p>Einige ausgewählte
+    Supermärkte, die bis 24.00 Uhr geöffnet sind, könnten ein idealer Standort
+    für ein Depot darstellen.</p></section>
+
+    <section><title>Firma - Empfangshalle einer Firma oder
+    Immobilie</title><p>Sowohl Firmen und Immobilienbesitzer möchten für die
+    Angestellten und Mieter einen Zusatzservice anbieten. Dennoch möchten
+    Firmen und Immobilienbesitzer keinen regen Besucherverkehr anziehen.
+    Dieser Gegensatz wird nur schwerlich aufzulösen sein. </p></section>
+  </conbody>
+</concept>

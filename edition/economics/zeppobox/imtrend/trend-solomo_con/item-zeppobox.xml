@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="trend-solomo_con" xml:lang="de-de">
+  <title>Trend - SoLoMo</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="28.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Trend<indexterm>SoLoMo</indexterm></indexterm>
+
+        <indexterm>Trend<indexterm>Social Local Mobile</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="trend-solomo_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Social Local Mobile</title><p>Das Social und Mobile Web
+    ist nicht neu. Allein Local rückt jetzt in den Mittelpunkt und es wird das
+    Handeln der Menschen revolutionieren. Online- und Offlinewelt werden
+    verschmelzen. Die Freundekreise der Menschen in der realen Welt sind lokal
+    geprägt. Wir interagieren im Alltag lokal. Die neuen Technologien wie GPS
+    können das lokale Handeln online unterstützen und
+    fördern.</p><p><cite>SoLoMo wird also sowohl das Konsumentenverhalten als
+    auch die Ausrichtung vieler Unternehmen verändern. In SoLoMo stecken zudem
+    nahezu unbegrenzte Möglichkeiten der personalisierten und zielgerichteten
+    Werbung und wird auch deshalb für nachhaltige Bewegung sorgen. Die
+    zukünftige Werbung, die auf SoLoMo ausgerichtet ist, wird mehr
+    Transparenz, mehr Produktinformationen und letztlich eine erhöhte
+    Kaufrelevanz bieten, da sie näher am Point of Sale
+    ist.</cite></p><p><cite>Dabei wird deutlich, dass SoLoMo große
+    kommerzielle Potenziale beinhaltet, diese aber immer auf den Nutzen der
+    User ausgerichtet sein müssen. Denn SoLoMo steht für eine Bewegung, die
+    den Bedürfnissen der User entgegenkommt. SoLoMo und der damit verknüpfte
+    wirtschaftliche Markt werden daher nur weiter so erfolgreich wachsen, wenn
+    die Bedürfnisse des Users im Zentrum stehen. SoLoMo wird User durch ihren
+    Alltag begleiten und neue Bewegung in die Marktwirtschaft bringen, wenn
+    sich der User davon einen tatsächlichen Vorteil versprechen kann. Eine
+    kommerzielle Nutzbarmachung des SoLoMo-Potenzials wird deshalb nur dann
+    gelingen, wenn dem User dadurch ein konkreter Mehrwert geboten wird.
+    [1]</cite></p></section>
+
+    <section><title>Quellen</title><ul>
+        <li>[1] Tim Ringel, SoLoMo – Die Social Local Mobile Bewegung, Artikel
+        auf marketing-boerse.de vom 23.11.2013, <xref format="html"
+        href="http://www.marketing-boerse.de/Fachartikel/details/SoLoMo-%96-Die-Social-Local-Mobile-Bewegung"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

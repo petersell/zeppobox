@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="anwendungsgebiet-transfer-p2p_con" xml:lang="de-de">
+  <title>Vermietung - mit und ohne Mietpreis</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+
+      <revised modified="04.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Anwendungsgebiet<indexterm>Vermietung mit und ohne Bezahlung</indexterm></indexterm>
+        <indexterm>Privat zu privat</indexterm>
+
+        <indexterm>Autoschlüssel</indexterm>
+
+        <indexterm>Wohnungsschlüssel</indexterm>
+
+        <indexterm>Fundstück</indexterm>
+
+        <indexterm>Schnäppchen</indexterm>
+
+        <indexterm>Kommilitone</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="anwendungsgebiet-transfer-p2p_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Beispiele</title><p>Es folgen Beispiele für den Vermietung
+    von Dingen unter Privatnutzern des Netzwerks als auch von Geschäftskunden
+    an Privatnutzer. Allgemein gilt: es übergibt jemand etwas (gegen
+    Bezahlung) dem anderen zur temporären Nutzung. Es steht dem Vermieter
+    eines Gegenstandes frei, dafür Miete zu erheben. Die Kosten für die
+    Nutzung des Schließfaches fallen unabhängig davon an.</p><p>Vorteil für
+    den Vermieter: Der Prozeß der Übergabe des Gegenstandes muss nicht in
+    seiner Privatwohnung stattfinden. Der Vermietung basiert auf einem
+    Fixpreis. Der Vermieter erhält sofort die Miete.</p><p>Vorteil für den
+    Mieter: er kann den Gegenstand auch außerhalb sonst üblicher Geschäfts-
+    und privater Besuchszeiten entgegennehmen. Er muss eventuell nicht so weit
+    fahren, wenn ein Depot zur Übergabe in der Mitte der Beteiligten genutzt
+    wurde.</p><p>Mit Entgegennahme des Gegenstandes erfolgt die sofortige
+    Bezahlung der Dienstleistung.</p></section>
+
+    <section><title>Keine Grenzen</title><p>Es gibt nichts, was nicht
+    verliehen werden kann. Sobald jemand etwas derzeitig nicht nutzt, kann es
+    verliehen werden.</p></section>
+
+    <section><title>Beispiel Universität</title><p>Kommilitonen übergeben
+    teure Lehrbücher etc. anderen Kommilitonen zur temporären Nutzung.
+    Kommilitonen sehen sich nicht jeden Tag, denn sie besuchen ein gemeinsames
+    Seminar an einem Wochentag, aber die restlichen Wochentage sehen sie sich
+    nicht. So erhält jedoch der Kommilitone noch vor dem Wochenende sein
+    Lehrbuch. Der Sender der Materialien kann beruhigt ins Wochenende
+    fahren.</p><p>Eine Lehrkraft teilt über die <keyword keyref="marke"/>
+    Lehrmaterial bzw. Kopien an mehrere Studenten aus.</p><p>Die Universitäten
+    spielen eine wichtige Rollen für die Nutzergruppe der Eearly
+    Adopters.</p></section>
+
+    <section><title>Sonderfall Vermietung</title><p>Dieses Anwendungsgebiet
+    ist ein Sonderfall. Wenn es von den Nutzern angenommen wird, wird es das
+    lokale Internet revolutionieren. Es wird die Bewohner einer Gegend über
+    ihre Gegenstände zusammenführen. Ein <keyword keyref="marke"/>-Depot wird
+    dann zur Keimzelle eines lokalen sozialen Netzwerkes - dem Internet der
+    Dinge.</p><p>Der Laminatschneider von Herrn Schmidt oder das rote Kleid in
+    Größe 36 in Utes Boutique. Bei diesen bestimmten Exemplaren ist es also
+    wichtig, neben dem Besitzer auch den aktuellen Aufenthaltsort des Dings zu
+    wissen. Das Ding muss nicht immer beim Besitzer sein. Wo ein Ding sich
+    aktuell befindet ist egal, Hauptsache ist, dass der letzte Nutzer des
+    Dings identifiziert und adressiert werden kann. Beim <keyword
+    keyref="marke"/>-Netzwerk ist der letzte Empfänger eines Dings bekannt und
+    kann kontaktiert werden.</p>Das <keyword keyref="marke"/>-Netzwerk in
+    seiner Gesamtheit besteht aus vielen lokalen <i>Internets der
+    Dinge</i>.</section>
+
+    <section><title>Einnahmequelle ID-Etikett</title><p>Für <keyword
+    keyref="marke"/> gäbe es die Möglichkeit, Etiketten bzw. RFID-Chips auf
+    Bestellung für die Gegenstände, die vermietet werden sollen, herzustellen
+    - gegen Bezahlung. Dieses Etikett verknüpft den Übergabeprozess mit genau
+    einem bestimmten Gegenstand. Keiner sollte sagen können, bei meinem
+    Übergabeprozeß war kein Laminatschneider, sondern ein Regenschirm im Fach
+    enthalten.</p></section>
+
+    <section id="framework-idee-vermietung"><title>Framework für
+    Ideen</title><p>Das <keyword keyref="marke"/>-Netzwerk ist ein Framework.
+    Keiner kann heute schon sagen, wie kreativ dieses Framework angenommen
+    wird - insbesondere bei Gegenständen, die getracet (verfolgt) werden
+    können. Es könnte sein, dass sich ein gewerblicher Vermieter findet, der
+    sich den Mietpreis mit dem Privatanbieter teilt und dafür die Pflege und
+    Lagerhaltung etc. übernimmt.</p><p>Denkbar wäre es auch, dass dieser
+    gewerbliche Vermieter auch die Pflege und Aufsicht über ein <keyword
+    keyref="marke"/>-Depot übernimmt.</p></section>
+  </conbody>
+</concept>

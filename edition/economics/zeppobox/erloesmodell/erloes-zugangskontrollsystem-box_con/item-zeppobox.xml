@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="erloes-zugangskontrollsystem-box_con" xml:lang="de-de">
+  <title>Lizenzierung des Zugangskontrollsystems</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher><keyword keyref="marke"/></publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="22.10.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Erlös<indexterm>Lizenzierung des
+        Zugangskontrollsystems</indexterm></indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="erloes-zugangskontrollsystem-box_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>mit den meisten Nutzern</title><image
+    href="zeppobox-small.gif" placement="break"/><p>Mit der steigenden Anzahl
+    der Nutzer im Netzwerk, wird ein Aspekt immer interessanter: die Nutzer
+    benutzen auch eine bestimmte Technologie der Zugangskontrolle. Diese
+    Technologie an sich ist nicht das besondere. Besonders ist, dass diese
+    bereits bei sehr vielen Menschen bzw. Kunden zum Einsatz kommt.</p><p
+    conref="../../includes/concept_incl.xml#concept_incl/zugangskontrolle"/></section>
+  </conbody>
+</concept>

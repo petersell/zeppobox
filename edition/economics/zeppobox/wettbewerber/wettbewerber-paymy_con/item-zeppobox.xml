@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="wettbewerber-paymy_con" xml:lang="de-de">
+  <title>paymy.de</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>zeppobox.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>zeppobox.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="24.09.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Wettbewerber<indexterm>Paymy.de</indexterm></indexterm>
+
+        <indexterm>Paymy.de</indexterm>
+
+        <indexterm>peer2peer-Bezahlung</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="wettbewerber-paymy_con"/>
+  </prolog>
+
+  <conbody>
+    <p>paymy.de ist ein Start-up aus Berlin. Es bietet ein reines
+    peer2peer-Bezahlsystem an.</p>
+
+    <p><fig>
+        <title>Privatkunden im Fokus</title>
+
+        <image href="paymy_667.gif" placement="break"/>
+      </fig></p>
+
+    <section><title>Nur eine Option unter mehreren</title><p>Nachteilig ist,
+    dass der Privatkunde noch viele andere Wege der Geldüberweisung nutzen
+    kann. Es gibt keinen wichtigen Grund, dieses System dauerhaft zu
+    nutzen.</p></section>
+
+    <section><title>Links</title><ul>
+        <li id="jederkannschreiben">paymy.de, <xref format="html"
+        href="https://paymy.de" scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>
