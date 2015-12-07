@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE pubmap PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:pubmap" "pubmap.dtd">
+<!DOCTYPE pubmap PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:dtd:pubmap" "pubmap.dtd">
 <pubmap xml:lang="de-de">
-  <pubtitle> <mainpubtitle><keyword keyref="marke"/> - Das lokale Internet der Dinge</mainpubtitle></pubtitle>
+  <pubtitle> <mainpubtitle>Zeppobox - Das lokale Internet der Dinge</mainpubtitle></pubtitle>
   <pubmeta>
   <author>Andreas Petersell</author> <publisherinformation><organization>ditalog.com</organization></publisherinformation>
   <keywords>
@@ -51,8 +51,8 @@
       </topicref>
    </frontmatter>       
      <pubbody class="+ map/topicref pubmap-d/pubbody ">
-     <topicref href="frontmatter/vorwort-zeppobox_concept.xml" scope="local" type="concept" xml:lang="de-de"/>
-     <topicref href="content-zeppobox.ditamap" format="ditamap"></topicref>
+     <mapref href="keydef-zeppobox.ditamap"/>
+     <topicref href="content-zeppobox.ditamap" format="ditamap"/>
     </pubbody>
    </publication>
 </pubmap>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Transformation type depends of the parameter in runbuild.bat. -->
+<!-- basedir is the project directory with the buildfile. -->
+
+<project name="Ditaproject" default="dita2pdf" basedir=".">
+    <!-- Read the properties file with settings -->
+	<property file="${user.home}${file.separator}build.properties"/>
+	<property name="dita.temp.dir" value="C:${file.separator}DITA-OUT${file.separator}temp"/>
+	<property name="generate.copy.outer" value="2"/>
+	<property name="onlytopic.in.map" value="true"/>
+	<!-- make the temp directory clean -->
+	<property name="clean.temp" value="no"/>	
+		
+	<target name="dita2pdf">
+		<ant antfile="${dita-ot-dir}${file.separator}build.xml">
+		    <property name="args.input" value="${basedir}${file.separator}zeppobox.ditamap"/>
+			<property name="transtype" value="pdf2"/>
+			<property name="args.filter" value="${basedir}${file.separator}filters${file.separator}petersell_pdf.ditaval" />
+			<!-- Change the standarddir for pdf customizations -->
+			<property name="customization.dir" value="${basedir}${file.separator}customization"/>
+			<!-- Settings for links in pdf output when using collection-type and related links-->
+			<!-- Acceptable values: none , all , nofamily. -->
+			<property name="args.fo.include.rellinks" value="none"/>
+			<property name="outer.control" value="quiet"/>
+			<property name="output.dir" value="${out-dir}${file.separator}pdf"/>
+		</ant>
+	</target>
+	
+	<target name="dita2epub">
+		<ant antfile="${dita-ot-dir}${file.separator}build.xml">
+			<property name="args.input" value="${basedir}${file.separator}zeppobox.ditamap"/>
+			<property name="transtype" value="epub"/>
+			<property name="args.filter" value="${basedir}${file.separator}filters${file.separator}petersell_online.ditaval" />
+			<property name="epub.exclude.auto.rellinks" value="true" />
+			<property name="epub.pubid.uri.stub" value="petersell.com"/>
+			<!--  Change css file -->
+			<property name="args.css" value="${basedir}${file.separator}css${file.separator}petersell.css"/>
+			<!-- <property name="args.csspath" value="css"/> -->
+			<property name="args.copycss" value="yes"/>
+			<property name="outer.control" value="quiet"/>
+			<property name="clean.temp" value="no"/>
+			<property name="output.dir" value="${out-dir}${file.separator}epub"/>
+		</ant>
+	</target>
+</project>

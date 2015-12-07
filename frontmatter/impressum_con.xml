@@ -24,16 +24,31 @@
     <p otherprops="center" outputclass="impressumzeilezwei">Veröffentlicht am 01.11.2013.</p>
 
     <p otherprops="center" outputclass="impressumzeilezwei">Download dieses
-    Buches unter zeppobox.publication.work</p>
+    Buches als EPUB und PDF unter
+    http://petersell.github.io/zeppobox/</p>
+
+    <p otherprops="center" outputclass="impressumzeilezwei">Der Text ist online aufrufbar unter
+    http://seminarwork.de/edition/economics/zeppobox/</p>
 
     <p otherprops="center" outputclass="impressumzeilezwei">* * *</p>
 
-    <p otherprops="center" outputclass="impressumzeilezwei">© 2015 Andreas Petersell, Berlin</p>
-    
-    <p otherprops="center"
-    outputclass="impressumzeilezwei">www.seminarwork.com</p>
-    
-    <p id="verlag" otherprops="center"><image href="images/verlag-seminarwork.gif"
-    placement="break"/></p>
+    <p otherprops="center" outputclass="impressumzeilezwei"><image
+    href="images/petersell-favicon.gif"/> www.petersell.com</p>
+
+    <p otherprops="center" outputclass="impressumzeilezwei">* * *</p>
+
+    <p id="lizenzhinweis" outputclass="impressumzeilezwei">Dieses Werk von
+    Andreas Petersell steht unter einer Creative Commons Namensnennung 3.0
+    Deutschland Lizenz. (<xref format="html"
+    href="http://creativecommons.org/licenses/by/3.0/de/" scope="external">zum
+    Link</xref>)</p>
+
+    <p id="lizenzdetails">Sie dürfen das Werk bzw. den Inhalt vervielfältigen,
+    verbreiten und öffentlich zugänglich machen, Abwandlungen und
+    Bearbeitungen des Werkes bzw. Inhaltes anfertigen und das Werk kommerziell
+    nutzen. Einzige Bedingung: Namensnennung. Sie müssen den Namen des
+    Autors/Rechteinhabers <i>Andreas Petersell</i> nennen.</p>
+
+    <p/>
   </conbody>
 </concept>

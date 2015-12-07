@@ -1,72 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- (c) 2010 Softwijs. -->
-<!-- Ant script for Dita projects -->
 <!-- Transformation type depends of the parameter in runbuild.bat. -->
 <!-- basedir is the project directory with the buildfile. -->
 
-<project name="Ditaproject" default="dita2pdf" basedir="C:">
-    <!-- prefix for environment variabeles so Ant can use them -->
-	<property environment="env"/>
-	<!-- Read the properties file with settings -->
+<project name="Ditaproject" default="dita2pdf" basedir=".">
+    <!-- Read the properties file with settings -->
 	<property file="${user.home}${file.separator}build.properties"/>
-	<!-- Define the name of the (master) ditamap, value of pubname in runbuild.bat -->
-	<property name="mapfile" value="${pubname}.ditamap"/>	
-	<!-- Define the (absolute) path of the project directory with the ditamap -->
-	<dirname property="projdir" file="${ant.file}"/>
-	<property name="publish.required.cleanup" value="no"/>
+	<property name="dita.temp.dir" value="C:${file.separator}DITA-OUT${file.separator}temp"/>
 	<property name="args.draft" value="no"/>
 	<property name="generate.copy.outer" value="2"/>
 	<property name="onlytopic.in.map" value="true"/>
 	<!-- make the temp directory clean -->
 	<property name="clean.temp" value="no"/>	
-		<echo>Processing of ditamap ${pubname} is started.</echo>
-	<echo/>
-	
-	<echo>*****************************************************************</echo>
-	<echo>* basedir      = ${basedir}</echo>
-	<echo>* projdir      = ${projdir}</echo>	
-	<echo>* pubname      = ${pubname}</echo>
-	<echo>* mapfile      = ${mapfile}</echo>
-	<echo>* java version = ${java.version}</echo>
-	<echo>* ant version  = ${ant.version}</echo>
-	<echo>*****************************************************************</echo>
-	<!-- Import integrator.xml from the toolkit directory -->
-	<import file="${dita-ot-dir}${file.separator}integrator.xml"/>
-	<!-- <import file="${dita.dir}${file.separator}integrator.xml" /> -->
-
-	<target name="dita2pdf" depends="integrate">
-		<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
-			<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
-			<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}pdf"/>
+		
+	<target name="dita2pdf">
+		<ant antfile="${dita-ot-dir}${file.separator}build.xml">
+		    <property name="args.input" value="${basedir}${file.separator}zeppobox.ditamap"/>
 			<property name="transtype" value="pdf2"/>
-			<!-- <property name="args.filter" value="C:${file.separator}DITA-SRCME${file.separator}filters${file.separator}petersell_pdf.ditaval" /> -->
-			<property name="args.filter" value="${projdir}${file.separator}filters${file.separator}petersell_pdf.ditaval" />
-			<!-- Change the standaarddir for pdf customizations -->
-			<property name="customization.dir" value="${projdir}${file.separator}customization"/>
+			<property name="args.filter" value="${basedir}${file.separator}filters${file.separator}petersell_pdf.ditaval" />
+			<!-- Change the standarddir for pdf customizations -->
+			<property name="customization.dir" value="${basedir}${file.separator}customization"/>
 			<!-- Settings for links in pdf output when using collection-type and related links-->
 			<!-- Acceptable values: none , all , nofamily. -->
 			<property name="args.fo.include.rellinks" value="none"/>
 			<property name="outer.control" value="quiet"/>
-		</ant>
-	</target>
-	<target name="dita2epub" depends="integrate">
-		<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
-			<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
-			<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}epub"/>
-			<property name="transtype" value="epub"/>
-			<property name="args.filter" value="${projdir}${file.separator}filters${file.separator}petersell_online.ditaval" />
-			<property name="epub.exclude.auto.rellinks" value="true" />
-			<property name="epub.pubid.uri.stub" value="5.ditalog.com"/>
-			<!--  Change css file -->
-			<property name="args.css" value="${projdir}${file.separator}css${file.separator}petersell.css"/>
-			<!-- <property name="args.csspath" value="css"/> -->
-			<property name="args.copycss" value="yes"/>
-			<property name="outer.control" value="quiet"/>
-			<property name="clean.temp" value="yes"/>
+			<property name="output.dir" value="${out-dir}${file.separator}pdf"/>
 		</ant>
 	</target>
 	
-	<target name="dita2xhtml" depends="integrate">
+	<target name="dita2epub">
+		<ant antfile="${dita-ot-dir}${file.separator}build.xml">
+			<property name="args.input" value="${basedir}${file.separator}zeppobox.ditamap"/>
+			<property name="transtype" value="epub"/>
+			<property name="args.filter" value="${basedir}${file.separator}filters${file.separator}petersell_online.ditaval" />
+			<property name="epub.exclude.auto.rellinks" value="true" />
+			<property name="epub.pubid.uri.stub" value="petersell.com"/>
+			<!--  Change css file -->
+			<property name="args.css" value="${basedir}${file.separator}css${file.separator}petersell.css"/>
+			<!-- <property name="args.csspath" value="css"/> -->
+			<property name="args.copycss" value="yes"/>
+			<property name="outer.control" value="quiet"/>
+			<property name="clean.temp" value="no"/>
+			<property name="generate.copy.outer" value="2"/>
+			<property name="onlytopic.in.map" value="true"/>
+			<property name="output.dir" value="${out-dir}${file.separator}epub"/>
+		</ant>
+	</target>
+	
+	<target name="dita2xhtml">
 		<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
 			<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
 			<!-- <property name="args.input" value="${projdir}${file.separator}topics${file.separator}content-buildumgebung.ditamap"/> -->
@@ -93,7 +73,7 @@
 			</copy> -->
   </target>
 	
-	<target name="dita2kirby" depends="integrate">
+	<target name="dita2kirby">
 				<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
 					<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
 					<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}kirby"/>
@@ -103,7 +83,7 @@
 				</ant>
 	</target>
 	
-	<target name="dita2markdown" depends="integrate">
+	<target name="dita2markdown">
 				<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
 					<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
 					<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}markdown"/>
@@ -128,7 +108,7 @@
 					</copy> -->
 		  </target>
 	
-	<target name="dita2html5" depends="integrate">
+	<target name="dita2html5">
 					<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
 						<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
 						<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}html5"/>
@@ -153,7 +133,7 @@
 						</copy> -->
 			  </target>
 	
-	<target name="dita2dita-ot.html" depends="integrate">
+	<target name="dita2dita-ot.html">
 			<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
 				<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
 				<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}dito-ot.html"/>
@@ -168,15 +148,4 @@
 				</copy> -->
 	  </target>	
 	
-  <target name="dita2kindle" depends="integrate">
-		<ant antfile="${dita-ot-dir}${file.separator}build.xml" target="init">
-			<property name="args.input" value="${projdir}${file.separator}${mapfile}"/>
-			<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}kindle"/>
-			<property name="transtype" value="kindle"/>
-			<!--  Change css file -->
-			<property name="args.css" value="customization${file.separator}ebook.css"/>
-			<property name="args.csspath" value="css"/>
-			<property name="args.copycss" value="yes"/>
-		</ant>
-	</target>	
 </project>

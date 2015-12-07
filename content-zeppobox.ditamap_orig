@@ -5,7 +5,10 @@
      xml:lang="de-de">
   <topicref href="edition/economics/zeppobox/includes/concept_incl.xml"
             processing-role="resource-only"/>
-  <topicref href="frontmatter/vorwort-zeppobox_concept.xml" scope="local" type="concept" xml:lang="de-de"/>
+
+  <mapref href="edition/economics/zeppobox/keydef-zeppobox.ditamap"
+          processing-role="resource-only"/>
+
   <topicref collection-type="sequence" keyref="zusammenfassung" scope="local"
             toc="yes" type="concept" xml:lang="de-de">
     <topicref keyref="bestandteile_con" scope="local" toc="yes" type="concept"
