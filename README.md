@@ -6,9 +6,6 @@ Im Sommer 2013 las ich in der Zeitschrift brand eins einen Artikel über die Arb
 
 Die Zeppobox hat die zeitversetzte Übergabe von Dingen im Focus. In dieser Form wird sie noch an der Realität scheitern. Finden Sie heraus, warum. Möge die Idee der Zeppobox Ihnen als Inspiration dienen. Mit anderen Worten: dies ist ein Text aus dem Jahr 2013, mehr nicht. Der Autor verändert diesen Text nicht.
 
-## Online
-auf [www.seminarwork.com](http://seminarwork.de/edition/economics/zeppobox) abrufbar.
-
 ## Download
 
 [![EPUB](/assets/images/download-epub.png)](https://github.com/petersell/zeppobox/raw/master/zeppobox.epub)
